@@ -7,13 +7,13 @@ date modified: Tuesday, March 18th 2025, 9:39:08 pm
 
 The Fractured Glass looked different in daylight—smaller, shabbier, stripped of the mysterious atmosphere that night and neon provided. The front entrance was locked, a digital sign indicating the bar wouldn't open until 4 PM, but I wasn't looking for the front door.
 
-I circled around to the narrow service alley behind the building, Pixel's carrier growing heavier with each step. The cat had been remarkably patient throughout our hurried journey across Watson, but occasional disgruntled meows suggested her patience was wearing thin.
+I circled around to the narrow service alley behind the building, careful not to disturb Pixel, who was still asleep in the safe room Zoe had provided. After the chaos of fleeing my apartment last night, the cat had found a comfortable spot on the small bed and seemed determined to make up for lost sleep.
 
-"Almost there," I murmured, approaching the unmarked steel door at the back of the building. A small scanner was embedded in the wall beside it, disguised as an outdated card reader. I pressed my palm against it and waited as it analyzed my biometric signature.
+"Almost there," I murmured to myself, approaching the unmarked steel door at the back of the building. A small scanner was embedded in the wall beside it, disguised as an outdated card reader. I pressed my palm against it and waited as it analyzed my biometric signature.
 
 Three seconds later, the door clicked open.
 
-"Took you long enough," Zoe's voice greeted me as I stepped inside, finding her leaning against the wall of the narrow hallway. Her enhanced eyes scanned me quickly, taking in my disheveled appearance and the cat carrier. "You look like shit."
+"Took you long enough," Zoe's voice greeted me as I stepped inside, finding her leaning against the wall of the narrow hallway. Her enhanced eyes scanned me quickly, taking in my disheveled appearance. "You look like shit."
 
 "Rough morning," I replied, closing the door behind me and engaging the manual locks. "Thanks for the emergency access."
 
@@ -637,9 +637,9 @@ She had a point. My options were limited: continue running (exhausting and ultim
 
 "I need time to consider," I said finally. "And verification about those netrunners."
 
-"Understandable. You have twenty-four hours." She provided a secure contact protocol, then added, "One final piece of information you should consider: Militech hasn't abandoned their interest in your apartment. They're monitoring it remotely, waiting for your return. Whatever you left behind—or whoever—remains under their surveillance."
+"Understandable. You have twenty-four hours." She provided a secure contact protocol, then added, "One final piece of information you should consider: Militech hasn't abandoned their interest in your apartment. They're monitoring it remotely, waiting for your return. Whatever you left behind remains under their surveillance."
 
-Pixel. My cat. In my haste to secure the data shard and investigate its contents, I'd allowed myself to forget the surveillance Militech had likely left in my apartment. If they were still monitoring the location, Pixel remained at risk.
+I thought of what remaining possessions I'd abandoned in my hasty escape. Nothing irreplaceable now that I had Pixel with me, but the invasion of what had been my home—temporary as it was—still rankled.
 
 "Why tell me this?" I asked, suspicion overriding concern momentarily.
 
@@ -655,25 +655,25 @@ I rose and left the garden, merging with the flow of pedestrians on the main tho
 
 "Yes?" I answered cautiously.
 
-"The Fractured Glass. One hour." Zoe's voice, tense and hurried. "Your furry friend needs extraction. Move fast." The connection cut immediately.
+"The Fractured Glass. One hour." Zoe's voice, tense and hurried. "Militech just hit your apartment again. Full tactical team. They're tearing the place apart looking for something. Move fast." The connection cut immediately.
 
-My pulse quickened. If Zoe was contacting me about Pixel, something had changed at my apartment—something that placed my cat in imminent danger rather than merely under surveillance.
+My pulse quickened. If Militech had escalated from passive monitoring to active intervention at my apartment, they might have traced my earlier movements to The Fractured Glass as well, putting Zoe at risk.
 
-I altered course, heading directly for the safe room where I'd left Pixel hours earlier. If Militech had escalated from passive monitoring to active intervention at my apartment, they might have traced my earlier movements to The Fractured Glass as well.
+I altered course, heading directly for the safe room where I'd left Pixel hours earlier. I needed the prototype deck, my limited funds, and whatever other resources I could gather quickly. And I needed to move my cat to a location with even less connection to me—Zoe's establishment was becoming too dangerous by association.
 
 I needed the prototype deck, my limited funds, and whatever other resources I could gather quickly. And I needed a plan to extract Pixel from my apartment without walking into a Militech trap or leading them back to Zoe's establishment.
 
 Night was falling over Night City, the transition from day to evening bringing the neon signs and holographic advertisements to their full luminous intensity. The streets took on their nocturnal character—less corporate workers, more pleasure-seekers and predators. Music spilled from clubs and bars, competing with the constant drone of vehicle traffic and security announcements.
 
-I reached The Fractured Glass through the same service alley I'd used earlier, entering via the safe room's private door. The space appeared unchanged—Pixel's food and water still in place, the bed unmade from my brief rest. But no cat.
+I reached The Fractured Glass through the same service alley I'd used earlier, entering via the safe room's private door. The space appeared unchanged—Pixel's food and water still in place, the bed unmade from my brief rest. The cat lifted her head from her comfortable spot on the pillow, greeting me with a slow blink.
 
-"Looking for this?" Zoe's voice came from the doorway behind me. She entered carrying Pixel in her arms, the cat looking uncharacteristically content with the arrangement.
+"Prepared to move?" Zoe's voice came from the doorway behind me. She entered carrying a small pack, her expression tense.
 
-"How did you—" I began, but she cut me off with a sharp gesture.
+"What did you find out?" I asked, gathering Pixel into her carrier while the cat protested with a disgruntled meow.
 
-"No time. Militech hit your apartment twenty minutes ago. Full tac team, military-grade hardware. They're tearing the place apart looking for something." She transferred Pixel to my arms, the cat immediately nuzzling against my chest in recognition. "I sent someone to watch after your call this morning. Good thing I did—they grabbed your furry friend minutes before Militech breached the door."
+"Militech hit your apartment twenty minutes ago. Full tac team, military-grade hardware. They're tearing the place apart looking for something." She handed me the pack. "I sent someone to watch after your call this morning. They're scanning for data storage—looking for hidden compartments, secure boxes, anything that might contain physical media."
 
-Relief flooded through me, followed immediately by renewed tension. "They're escalating. Moving from surveillance to direct action."
+Tension tightened my shoulders. "They're escalating. Moving from surveillance to direct action."
 
 "No shit. And they didn't look like they were planning to ask questions politely." Zoe moved to the small storage unit where I'd left the prototype deck and my remaining supplies. "You need to go. Now. They hit your apartment; this place could be next."
 
@@ -689,7 +689,7 @@ She provided quick directions, then added, "Don't come back here, Scarth. Whatev
 
 The words stung despite their pragmatic truth. The Fractured Glass had been one of my few safe havens in Night City, and Zoe one of my few trusted contacts. But she was right—my problems had escalated beyond what a bar owner with side businesses could reasonably handle, no matter how well-connected.
 
-"I understand," I said, adjusting the pack on my shoulder. "Take care of yourself, Zoe."
+"I understand," I said, adjusting the pack on my shoulder and securing Pixel in her carrier. "Take care of yourself, Zoe."
 
 "Always do." She hesitated, then added, "Raven was asking about you. Earlier today. Seemed concerned, not threatening. Might be worth considering whatever he was offering before."
 
@@ -703,11 +703,13 @@ Pixel was remarkably calm in her carrier as we navigated the subterranean route,
 
 I emerged eventually through a utility access in what appeared to be a small electronics repair shop, long closed for the night. The security was minimal—a basic door lock that yielded to my decryption tools in seconds. From there, I slipped into the nighttime crowds of Watson District, another anonymous figure carrying a pet case and backpack, indistinguishable from thousands of others in the city's endless flow.
 
-With Militech actively searching my apartment and potentially tracking my movements, I needed a new safe location—somewhere unexpected, outside my normal patterns. Vik's place was too obvious a connection. Any hotel or short-term rental would require identification that could be tracked.
+With Militech actively hunting me and potentially tracking my movements, I needed a new safe location—somewhere unexpected, outside my normal patterns. Vik's place was too obvious a connection. Any hotel or short-term rental would require identification that could be tracked.
 
 Which left few options beyond the unthinkable: seeking help from someone I'd deliberately avoided for the past year.
 
 Dex.
+
+Pixel shifted restlessly in her carrier, probably sensing my discomfort with the decision. "I know," I murmured to her. "Not ideal, but we're running out of options."
 
 Despite our complicated history and the lingering distrust from his corporate espionage, he possessed resources I now desperately needed: secure accommodation, advanced equipment, and connections throughout Night City's information networks. Most importantly, he had no known association with my current activities, making him unlikely to appear on Militech's surveillance algorithms.
 
@@ -715,7 +717,7 @@ I found a public communication terminal in a busy transit hub, using it to send 
 
 TO: BLUEHAND
 
-MESSAGE: Need crash space. Off-grid. Not alone. Time-sensitive.
+MESSAGE: "Need crash space. Off-grid. For two. Time-sensitive."
 
 The response came more quickly than I'd expected:
 
@@ -741,7 +743,7 @@ I entered, the door sealing behind me with a pneumatic hiss. The corridor opened
 
 Dex himself sat at the primary terminal, his artificial eye glowing blue in the dim lighting. He looked much as he had during our meeting at The Afterlife, though he'd changed into more casual attire—black synthetic pants and a loose graphene-weave shirt that probably cost more than most people's monthly rent.
 
-"Interesting accessory," he commented, nodding toward Pixel's carrier. "Didn't take you for a pet person."
+"Interesting companion," he commented, nodding toward Pixel's carrier. "Didn't take you for a pet person."
 
 "There's a lot you don't know about me," I replied, setting the carrier down and opening its door to allow Pixel to explore her new surroundings.
 
