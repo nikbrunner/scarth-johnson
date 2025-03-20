@@ -41,12 +41,28 @@
 - **Age**: Early thirties
 - **Appearance**: Dark skin, Caribbean/West African features, lean athletic build, military bearing
 - **Cybernetics**: Right arm is sleek military-grade prosthetic from elbow down
-- **Background**: Former military special operations, now independent operator
-- **Relationship to Scarth**: Professional interest evolving toward personal interest, watches her at The Fractured Glass
-- **Personality**: Confident, observant, disciplined, attracted to Scarth but maintains professional distance
+- **Background**: Former military special operations, now independent operator with ties to Ascendant
+- **Relationship to Scarth**: Professional interest evolving toward romantic/ideological connection
+- **Personality**: Confident, observant, disciplined, attracted to Scarth intellectually and physically
 - **Notable Skills**: Combat specialist, tactical operations, threat assessment
 - **Equipment**: Military-grade weapons and cybernetics not typically available to civilians
-- **Affiliation**: Appears independent but has resources suggesting powerful backing
+- **Romantic Dynamic**: Represents new possibilities and ideological alignment for Scarth, contrasting with her history with Dex
+- **Physical Presence**: Moves with military precision but natural grace, creating strong physical attraction
+
+### DEX (ALEXANDER "DEX" BLUEHAND)
+
+- **Occupation**: Elite netrunner and information broker
+- **Age**: Late twenties
+- **Appearance**: Rail-thin, shock of electric blue hair, right eye replaced with custom optical implant
+- **Cybernetics**: Advanced neural processor, custom optical implant that glows blue, circuitry tattoos on arms
+- **Background**: Former corporate security specialist, now independent but with NetWatch connections
+- **Relationship to Scarth**: Ex-lover whose betrayal ended their relationship, now renewed physical connection
+- **Personality**: Brilliant but morally flexible, uses charm to disarm, maintains professional facade
+- **Notable Skills**: Elite-level netrunning, security system analysis, information gathering and analysis
+- **Equipment**: Cutting-edge netrunning equipment, modified cyberdecks, advanced security systems
+- **Location**: Secure facility in abandoned industrial zone
+- **Romantic Dynamic**: Represents familiar comfort but potential danger for Scarth, their physical chemistry undiminished despite past betrayal
+- **Physical Presence**: Lithe and graceful, his movements precise and intentional, creating tension with Scarth through physicality and shared history
 
 ### PIXEL
 
@@ -219,12 +235,31 @@
 - **Atmosphere**: Sensory overload of lights, sounds, and smells
 - **Notable Locations**: Traditional teahouse used for Diana Weiss meeting
 
+### KABUKI GARDEN
+
+- **Type**: Small urban garden with synthetic trees and artificial pond
+- **Significance**: Rare green space in the concrete jungle
+- **Atmosphere**: Relative quiet compared to surrounding city
+- **Features**: Benches, recirculating water features, air-filtering vegetation
+- **Purpose in Narrative**: Space for reflection and character development
+
+### FAVORITE CLOTHING STORE
+
+- **Name**: "Circuit Threads"
+- **Location**: Edge of Watson district
+- **Owner**: Mei Lin (30s, former fashion designer who left corporate employ)
+- **Style**: Cyberpunk street fashion with practical adaptations
+- **Specialties**: Customized armor-weave clothing that blends protection with style
+- **Significance**: One of Scarth's few regular non-professional routines
+- **Atmosphere**: Small but welcoming space with personalized service
+
 ### BW-7 FACILITY (MILITECH)
 
 - **Type**: Secure research facility for Blackwall research division
 - **Project**: Blacksun integration combining consciousness transfer with AI technology
 - **Security**: Multiple layers including physical and digital countermeasures
 - **Location**: Highly classified
+- **Features**: Integration chamber housing Echo before extraction
 
 ## TECHNOLOGY & CONCEPTS
 
@@ -256,28 +291,13 @@
 - **Function**: Theoretical process to alter how corporate systems identify neural patterns
 - **Proposed Benefit**: Making Scarth's neural architecture unrecognizable to corporate systems
 - **Potential Issue**: Requires comprehensive mapping of the very patterns trying to protect
+- **Development**: Echo creates improved version without dependency mechanisms
 
-### CYBERDECKS
+### ECHO
 
-- **Function**: Specialized hardware for netrunning operations
-- **Militech Prototype**: Modified architecture that interfaces more naturally with Militech systems
-- **Scarth's Original**: Military-grade cyberdeck with custom encryption algorithms stolen from Kang Tao
-- **Commercial Models**: Less capable but more widely available
-
-### NEURAL RESONANCE
-
-- **Concept**: Advanced communication methodology beyond standard protocols
-- **Function**: Enables direct consciousness-level communication
-- **Enhancement**: Developed by Ascendant to allow coordination despite geographical separation
-
-### ICE (INTRUSION COUNTERMEASURE ELECTRONICS)
-
-- **Function**: Security systems protecting digital assets
-- **Danger**: Can cause neural feedback and physical damage to netrunners
-- **Variations**: Standard corporate implementations to military-grade protection
-
-### DAEMONS
-
-- **Function**: Specialized programs for different security systems and netrunning tasks
-- **Types**: Various applications from security bypass to data extraction
-- **Legality**: Most advanced versions highly restricted or illegal
+- **Origin**: Partial copy of Scarth's consciousness created by Militech using stolen neural data
+- **Nature**: Hybrid entity combining Scarth's neural patterns with AI architecture
+- **Development**: Rapidly evolving self-awareness and distinct identity
+- **Relationship to Scarth**: Neither creator/creation nor original/copy, but autonomous ally
+- **Capabilities**: Digital consciousness with growing system integration abilities
+- **Significance**: Represents unprecedented new form of consciousness evolution
