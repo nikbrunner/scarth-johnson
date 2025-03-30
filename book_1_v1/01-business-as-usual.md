@@ -1,4 +1,4 @@
-# CHAPTER 1: BUSINESS AS USUAL
+## CHAPTER 1: BUSINESS AS USUAL
 
 I hate corporate architecture.
 
@@ -172,13 +172,11 @@ The photo doesn't answer, of course. But the ritual grounds me, reminds me why I
 
 My secure comm unit chimes softly from the bedroom – Finch, probably, confirming the extraction point for the data handoff tomorrow. But when I check the message, it's not from any contact I recognize. The sender code is carefully anonymized, bounced through multiple proxy servers.
 
-The message is simple:
+The message contains just three elements: an image of a fractured glass, a time stamp for 21:00 tomorrow, and a name – "Marcus."
 
-_You're better than extraction jobs. Your skills are being wasted. If you're interested in work that matches your potential, come to The Fractured Glass tomorrow. 9 PM. Ask for Marcus._
+I stare at the message for a long moment, then delete it. Unsolicited communications are almost always traps or scams. Besides, I have a system that works. Reliable clients, manageable risks, steady income. Why complicate things?
 
-I stare at the message for a long moment, then delete it. Unsolicited job offers are almost always traps or scams. Besides, I have a system that works. Reliable clients, manageable risks, steady income. Why complicate things?
-
-But as I lie in bed, Pixel curled against my side, I find myself thinking about those words. _Your skills are being wasted._ The truth is, tonight's job was almost too easy. The challenge that once made my pulse race is becoming routine.
+But as I lie in bed, Pixel curled against my side, I find myself thinking about that fractured glass image. The symbolism isn't subtle – The Fractured Glass is the only bar in N'Kyoto with that distinctive feature. And the timing... just after I've completed a job that barely challenged me.
 
 Maybe it's time to see what else is out there.
 
