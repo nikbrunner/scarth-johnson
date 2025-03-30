@@ -16,3 +16,4 @@
 ## Next
 
 - [ ] Write next chapters
+- [ ] Fix epub creation script
