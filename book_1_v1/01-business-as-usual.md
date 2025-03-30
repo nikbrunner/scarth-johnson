@@ -64,7 +64,9 @@ I press myself into a recessed doorway, weighing my options. I could wait for hi
 
 Direct approach it is, then.
 
-I reach for my sidearm – a modified Kongou pistol with a sound suppressor – but stop myself. Gunshots, even suppressed ones, leave evidence that can be traced. Instead, I feel the familiar tingle in my fingertips as I activate my retractable claws. The military-grade carbon fiber extensions slide smoothly from beneath my nails, razor-sharp and virtually undetectable by standard security scans. A parting gift from HX's enhancement program before they used me as their scapegoat.
+I reach for my sidearm – a modified Kongou pistol with a sound suppressor – but stop myself. Gunshots, even suppressed ones, leave evidence that can be traced. Instead, I feel the familiar warmth spreading through my forearms as I activate my HX-11 Dermal Armaments – "Bio Blades" on the street. The genetically engineered bone-carbon hybrid structures stir beneath my skin, blue-tinged capillaries briefly illuminating the pathways along my fingers as the transformation begins.
+
+Within seconds, razor-edged extensions emerge from beneath my nails, my ordinary-looking hands becoming lethal weapons. The living blades – perfectly bonded to my unique genetic profile and neural architecture – remain virtually undetectable by standard security scans even when deployed. A rare and expensive parting gift from HX's exclusive enhancement program before they used me as their scapegoat.
 
 The guard turns the corner, his attention focused on the tablet in his hand – reviewing security protocols, most likely. I launch myself from the doorway in complete silence, covering the distance between us in three rapid strides. His enhanced senses alert him at the last moment – his head snaps up, eyes widening – but it's too late.
 

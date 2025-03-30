@@ -130,7 +130,7 @@ Individuals access information through various methods depending on their modifi
 - **Biological Delivery Systems**: Weapons deploying engineered biological agents
 - **Nanite Clouds**: Microscopic machine swarms with various offensive capabilities
 - **Integrated Weapon Systems**: Weapons built into cybernetic enhancements
-- **Biological Weapons**: Modified body parts that transform into offensive capabilities
+- **Biological Weapons**: Modified body parts that transform into offensive capabilities (street designation: "Bio-mods" or "Bio Blades" for specific types)
 
 ### SECURITY SYSTEMS
 

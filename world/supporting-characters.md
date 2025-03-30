@@ -149,6 +149,12 @@
 - **Relationship to Scarth**: Former employer who scapegoated her for a security breach
 - **Current Interest**: Monitoring Scarth as potential security risk with knowledge of their operations
 - **Street Reputation**: Widely feared and despised in N'Kyoto's Undercity; known for aggressive intellectual property enforcement, predatory medical contracts, and rumored disappearances
+- **Notable Divisions**:
+  - HX Medical (consumer healthcare)
+  - HX Genesis (genetic engineering)
+  - HX Continuity (life extension research)
+  - HX Defense (biological security systems)
+  - HX Ascendant (exclusive elite-tier biological enhancements, including the restricted Dermal Armament Series that produces "Bio Blades")
 
 ### CYGNUS SOLUTIONS
 

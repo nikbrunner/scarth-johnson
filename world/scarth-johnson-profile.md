@@ -6,7 +6,7 @@
 - **Age**: 27
 - **Heritage**: Japanese-Canadian
 - **Occupation**: Freelance infiltration and extraction specialist
-- **Former Occupation**: Corporate security specialist for Helix Integrated (HX)
+- **Former Occupation**: Corporate security specialist for Helix Integrated (HX, formerly Kang Tao)
 - **Residence**: Small but secure apartment in the Mid-District of N'Kyoto
 
 ## APPEARANCE
@@ -37,7 +37,7 @@
 - **Neural Architecture**: Rare natural pattern that provides exceptional interface capabilities and compatibility with advanced systems
 - **Bioreactive Defensive System**: Subdermal implants that harden in response to incoming attacks
 - **Modified Musculature**: Enhanced agility and reaction time through genetically modified muscle fibers
-- **Retractable Claws**: Specialized bone/carbon fiber blades that can extend from fingers for close combat
+- **HX-11 Dermal Armaments ("Bio Blades")**: Rare genetically engineered bone-carbon hybrid weapons that emerge from beneath fingernails; requires specific neural architecture and genetic compatibility; virtually undetectable by standard security scans
 - **Pain Management System**: Moderate (can suppress pain during combat but still feels enough to avoid serious injury)
 
 ## SKILLS
