@@ -3,7 +3,7 @@ date created: Wednesday, March 20th 2025, 10:14:23 am
 date modified: Wednesday, March 20th 2025, 10:14:23 am
 ---
 
-# CHAPTER 3 - Digital Divide
+## CHAPTER 3 - Digital Divide
 
 Dex's secure room felt different at 9 PM than it had in the afternoon—tighter somehow, the walls closer, the air denser. Pixel had claimed the center of the narrow bed, her eyes reflecting the glow from my workstation as I prepared for the meeting with Diana Weiss. The cat's rhythmic breathing provided a counterpoint to the hum of electronics—a reminder of organic life amid the digital preparations.
 

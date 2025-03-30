@@ -3,7 +3,7 @@ date created: Tuesday, March 18th 2025, 1:52:40 pm
 date modified: Tuesday, March 18th 2025, 9:38:49 pm
 ---
 
-# CHAPTER 1 - Signal to Noise
+## CHAPTER 1 - Signal to Noise
 
 The ambient bass from the club three floors below vibrated through my apartment walls, keeping perfect time with my heartbeat as I slipped the neural jack into the port at the base of my skull. The familiar cold sting of connection faded quickly, replaced by the electric rush that always comes when my consciousness extends beyond flesh.
 

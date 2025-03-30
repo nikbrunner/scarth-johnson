@@ -3,7 +3,7 @@ date created: Tuesday, March 18th 2025, 2:25:31 pm
 date modified: Tuesday, March 18th 2025, 9:39:08 pm
 ---
 
-# CHAPTER 2 - Encrypted Truths
+## CHAPTER 2 - Encrypted Truths
 
 The Fractured Glass looked different in daylight—smaller, shabbier, stripped of the mysterious atmosphere that night and neon provided. The front entrance was locked, a digital sign indicating the bar wouldn't open until 4 PM, but I wasn't looking for the front door.
 
