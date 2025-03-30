@@ -1,161 +1,283 @@
-# SCARTH JOHNSON SERIES: BOOK 1
+# SCARTH JOHNSON SERIES: DIAMOND IN THE ROUGH
 
-## NEURAL ECHO - REVISED CHAPTER OUTLINE
+## CONCEPT
 
-### CHAPTER 1: SIGNAL TO NOISE
+Scarth Johnson is an exceptional infiltrator and extractor who handles mid-tier jobs in N'Kyoto with ruthless efficiency. When a seemingly routine corporate extraction job goes sideways, she crosses paths with a mysterious fixer who recognizes that her talents are being wasted on standard work. As this mentor helps her access higher-tier opportunities, Scarth discovers both her untapped potential and a conspiracy that threatens the precarious balance of power in N'Kyoto. The first book establishes Scarth as a rising force while introducing a powerful antagonist whose ambitions will create a multi-book arc.
 
-- Scarth physically infiltrates the Meridian BioTech building for a job
-- Intense close combat sequence where she eliminates guards using her silenced Kongou pistol and a dagger
-- Key scene: She approaches a guard directly, walking seductively toward him - his stunned reaction to her appearance gives her the advantage to quickly draw her concealed pistol and eliminate him
-- This sequence introduces her physical appearance (ashen pink inverted bob, distinctive eye makeup), athletic figure in form-fitting tactical gear, and combat skills
-- After securing physical access, she jacks into their system for the netrunning portion of the job
-- Return to her apartment - establish her living situation and relationship with Pixel
-- Meeting with Vik to deliver the intel, hints at her past with Kang Tao
-- Mysterious message about Kang Tao received
-- Word count: ~5,500
+## BOOK 1: HIGHER GROUND
 
-### CHAPTER 2: BENEATH THE SURFACE
+### CHAPTER 1: BUSINESS AS USUAL
 
-- Scarth visits her favorite clothing store (establishing routine and character relationship)
-- Introduction to her street style with her signature tight leggings in various colors
-- Militech agent approaches her with job offer and suspicious data chip
-- Scene at The Fractured Glass with Zoe - first glimpse of Raven watching her
-- Brief interaction with Raven establishes tension/attraction
-- Meeting at Hyatt Plaza with mysterious contact about Kang Tao
-- Word count: ~5,000
+- Scarth efficiently completes a corporate extraction job at Meridian BioTech
+- Showcases her tactical infiltration skills, close combat expertise, and weapon proficiency
+- Uses her appearance to distract a guard, demonstrating her comfort using attraction as a tool
+- Uses her retractable claws in close quarters combat to eliminate threats silently
+- Returns to her apartment and Pixel, establishing her solitary but content lifestyle
+- Meets with regular fixer to deliver the extracted data and get paid
+- Establishes her reputation as reliable but "stuck in a lane" taking predictable mid-tier jobs
+- Ends with mysterious message on her private channel about a more ambitious opportunity
 
-### CHAPTER 3: SHADOWS OF THE PAST
+### CHAPTER 2: NEW PLAYER
 
-- Scarth seeks out Dex to analyze the Militech chip
-- History and tension between them established
-- Dex clearly attracted to her but maintaining professional distance
-- Confirmation the chip contains neural mapping malware
-- Retrieval of data shard from locker at Night City Central Station
-- Confrontation with corporate tail in station bathroom - physical action sequence
-- Word count: ~6,000
+- Scarth debates taking the unusual job offer while shopping at Circuit Couture
+- Meeting at The Fractured Glass with Zoe to gather intel on the potential client
+- Introduction of Marcus Wen, an elegant, older fixer with connections to N'Kyoto's elite circles
+- Wen offers her a job requiring both infiltration skills and social engineering at high society levels
+- Job involves extracting proprietary design specs from Cygnus Solutions, a cutting-edge tech firm
+- Scarth initially hesitates, doubting her ability to blend in elite corporate settings
+- Wen shows surprising insight into her capabilities and hidden potential
 
-### CHAPTER 4: ENCRYPTED TRUTHS
+### CHAPTER 3: STEP UP
 
-- Analysis of data shard at Vik's clinic
-- Discovery of Mikoshi/Blacksun technology and her neural architecture's value
-- Militech raids her apartment while she's gone
-- Escape to Zoe's safe room with Pixel
-- Scarth processing the revelations about her value to corporations
-- Word count: ~5,500
+- Preparation for the Cygnus job, including acquiring appropriate attire and identity credentials
+- Visit to former flame Dex to acquire high-end infiltration tech beyond her usual gear
+- Sexual tension with Dex, complicated by their history of trust issues
+- Scarth studies corporate etiquette, revealing her intelligence and adaptability
+- Introduction of Haruki Tanaka, Cygnus Solutions' charismatic security chief, at a pre-event function
+- Unexpected attraction between Scarth and Tanaka creates moral complexity
+- Chapter ends with her ready to infiltrate the main Cygnus corporate event
 
-### CHAPTER 5: VULNERABILITY
+### CHAPTER 4: HIGH SOCIETY
 
-- Scarth seeks out Dex's secure facility for shelter
-- Initial infiltration of Militech systems using prototype deck
-- Mental/emotional exhaustion after discovering corporations hunting her
-- Intimate scene with Dex - mixture of vulnerability, history, and physical connection
-- Explicit but tasteful depiction of their encounter, with both emotional and physical details
-- Morning after creates complicated emotions and renewed tension
-- Word count: ~6,500
+- Scarth infiltrates the exclusive Cygnus product launch party in Sakura Hills
+- Fish-out-of-water comedy as she navigates elite corporate culture
+- Unexpected encounter with Diana Weiss, former HX executive who contributed to her firing
+- Successful social engineering to access restricted areas while maintaining cover
+- Growing flirtation with Tanaka, who seems genuinely interested in her
+- Discovery that Cygnus is developing "NeuroSync" technology allowing direct shared consciousness
+- Extraction of the data is successful, but security algorithms alert Tanaka to the breach
 
-### CHAPTER 6: BREATHING SPACE
+### CHAPTER 5: CLEAN GETAWAY
 
-- Reflective scene in Kabuki garden showing Scarth in the wider world
-- Interaction with regular Night City residents - showing her social navigation
-- Diana Weiss contacts her with an offer
-- Harlan Cross (Arasaka operative) approaches with warning about Weiss
-- Cross claims Weiss has killed previous netrunners
-- Deepening mystery about what corporations really want
-- Word count: ~5,000
+- Tense escape from Cygnus Tower as security lockdown initiates
+- Close call with Tanaka who almost catches her but is distracted by their mutual attraction
+- Return to Marcus Wen with the extracted data exceeding expectations
+- Wen reveals the existence of Avalon, but clearly shares more than he's supposed to
+- Taken to Avalon's outer facility where she undergoes initial neural scan that makes her uncomfortable
+- First meeting with Raven, Avalon's security specialist, with immediate tension/attraction
+- Scarth's fee is significantly higher than her usual jobs, opening financial possibilities
+- Raven warns her privately that Wen is taking unusual risks by fast-tracking her
+- Wen offers mentorship and hints at Avalon's resources, walking a line between recruitment and security
 
-### CHAPTER 7: NEW ALLIANCES
+### CHAPTER 6: HIGHER STAKES
 
-- Message from "Raven" revealing himself as part of "Ascendant"
-- Meeting at Charter Hill with Raven
-- Physical attraction and ideological connection with Raven
-- Information about Ascendant's mission to democratize consciousness transfer tech
-- Conflicted feelings about Raven vs recent reconnection with Dex
-- Word count: ~6,000
+- Scarth uses her newfound wealth to upgrade her apartment security and equipment
+- News reports of aggressive corporate action against independent operators
+- Dex visits to warn her that the Cygnus job has put her on the radar of powerful players
+- Their tension leads to an intense physical encounter, showcasing their complicated relationship
+- Tanaka sends her a cryptic personal message suggesting he knows it was her at Cygnus
+- Wen offers another job involving multiple corporate targets with unprecedented payment
+- Job requires working directly with Raven, creating an interesting dynamic with her Dex situation
+- Scarth discovers Wen has been sharing classified information beyond his authorization
+- Conflict between appreciating his trust and questioning his judgment in breaking protocol
 
-### CHAPTER 8: DEEPER DIVE
+### CHAPTER 7: PARTNERSHIP
 
-- Second, deeper infiltration of Militech systems
-- Discovery of BW-7 facility developing hybrid consciousness
-- Scarth almost caught by security systems - tense escape sequence
-- Meeting with Diana Weiss in traditional Japanese teahouse
-- Weiss's offer: help her access stabilization protocols in exchange for neural signature modification
-- Unexpected revelation that contradicts what both Raven and Cross told her
-- Word count: ~6,000
+- Planning session with Raven for the multi-target operation
+- Their different approaches and backgrounds create initial friction
+- Training sequence where Raven helps refine her already impressive skills
+- Reveals the targets are all connected to something called "Project Ascension"
+- First target infiltration goes perfectly, showcasing their complementary skills
+- Growing professional respect and personal attraction between them
+- Discovery that Project Ascension involves forced consciousness transfer technology
 
-### CHAPTER 9: DIVIDED LOYALTIES
+### CHAPTER 8: COMPLICATIONS
 
-- Scarth returns to Dex's facility, conflicted about who to trust
-- Another intimate moment with Dex that reveals more vulnerability
-- Dex provides information about Militech's accelerating timeline
-- Discovery that Militech has created a partial copy of her consciousness using stolen data
-- Decision to align with Ascendant to investigate further
-- Word count: ~5,500
+- Second target infiltration is compromised when they encounter Tanaka
+- Tense three-way confrontation where Tanaka hints he's not fully aligned with corporate interests
+- Narrow escape, with Raven injured protecting Scarth
+- Taking Raven to Dr. Takeda's clinic for treatment
+- Caring for injured Raven creates vulnerability and intimacy
+- Discovery that Project Ascension is headed by Nicholas Crane, notorious corpo-terrorist
+- Crane is targeting specific neural architectures for his technology, including Scarth's
 
-### CHAPTER 10: DIGITAL REFLECTION
+### CHAPTER 9: PERSONAL TOUCH
 
-- Meeting with Ascendant's leadership team
-- Establishing direct communication with the hybrid entity (partial copy of her consciousness)
-- Entity demonstrates developing self-awareness and personhood
-- Growing attraction and connection with Raven during planning
-- Decision to extract the entity from Militech control
-- Word count: ~6,000
+- Scarth decides to meet Tanaka privately to gauge his position
+- Sophisticated cat-and-mouse conversation at an exclusive restaurant in the Preservation Quarter
+- Sexual tension culminates in an intimate encounter at his apartment
+- Post-intimacy, Tanaka reveals he suspects Crane is planning to use the technology for mass control
+- She leaves with valuable intelligence but conflicted feelings about using Tanaka
+- Returns to find Dex waiting at her apartment, creating awkward triangle situation
+- News that another independent operator with special neural architecture has disappeared
 
-### CHAPTER 11: CROSSFIRE
+### CHAPTER 10: INNER CIRCLE
 
-- Physical infiltration of Militech's BW-7 facility
-- Coordinated action with Raven and Ascendant team
-- Intense action sequence with corporate security
-- Fraught extraction of the hybrid entity
-- Intimate moment with Raven after successful mission - different from Dex, more idealistic connection
-- Word count: ~7,000
+- Full meeting of Avalon to discuss the Crane threat
+- Introduction of other elite specialists with their own histories and skills
+- Wen reveals his personal vendetta against Crane from previous corporate wars
+- Scarth learns the extent of what Wen has risked for her by breaking protocols
+- Plan formulated to infiltrate Crane's heavily-guarded compound
+- Training montage where Scarth accesses previously untapped potential under Wen's guidance
+- Raven and Scarth's relationship deepens during intensive preparation
+- Discovery that Crane has Tanaka's family under threat to ensure compliance
 
-### CHAPTER 12: NEURAL ECHO
+### CHAPTER 11: HIGHEST DIFFICULTY
 
-- The hybrid entity adopts the name "Echo"
-- Philosophical conversation about identity and consciousness
-- Echo develops neural signature modification to hide Scarth from corporate detection
-- Procedure to modify Scarth's neural signature succeeds
-- Decision to work with both Echo and Ascendant to shape consciousness transfer technology
-- Final scene establishing the triangular tension between Scarth, Dex, and Raven
-- Open ending setting up Book 2
-- Word count: ~6,500
+- The infiltration of Crane's compound is a masterclass in coordination
+- Multiple Avalon members using their specialties in concert
+- Scarth reaches the central server while others provide distraction
+- Confrontation with Crane reveals he's already partially implemented consciousness transfer
+- His enhanced abilities make him nearly unstoppable in direct combat
+- Tanaka arrives unexpectedly, turning on Crane despite the threats
+- Chaotic three-way battle with Scarth showcasing the full range of her combat abilities
+
+### CHAPTER 12: NEW GROUND
+
+- Aftermath of the Crane confrontation, which ends with his apparent death
+- Tanaka sacrifices himself to stop Crane, creating emotional complexity
+- Avalon recovers crucial data about neural architecture matching
+- Discovering the extent of Crane's operation across multiple city centers
+- Intelligence indicating Crane had uploaded a backup of his consciousness
+- Wen officially welcomes Scarth as a full member of Avalon
+- Final scene establishes her new status in N'Kyoto and hints at Crane's digital survival
+
+## MAJOR CHARACTERS & ELEMENTS
+
+### SCARTH JOHNSON
+
+- Maintaining all her established traits but initially unaware of her full potential
+- Character journey involves recognizing her capability for higher-tier operations
+- Employment of her appearance and seductive abilities becomes more deliberate and tactical
+- Skills progression from efficient operative to exceptional strategist
+- Growing self-confidence in social engineering beyond physical infiltration
+
+### MARCUS WEN
+
+- Elegant, late-60s fixer with connections across all levels of N'Kyoto
+- Former corporate executive who went independent after ethical disagreements
+- Recognizes Scarth's raw talent and potential immediately
+- Serves as mentor figure helping her access her untapped capabilities
+- Deliberately breaks Avalon's protocols by sharing restricted information with Scarth
+- Risks his standing in the organization to fast-track her involvement
+- Has personal history with betrayal that makes his trust in Scarth more significant
+- Faces increasing scrutiny from Avalon leadership over his handling of Scarth
+
+### AVALON
+
+- Highly secretive organization of elite operators positioned above the standard N'Kyoto power structures
+- Presents initially as purely professional with strict rules against emotional entanglements
+- Operates on a tiered trust system where access to information and resources is strictly controlled
+- Employs trust verification protocols including neural monitoring during critical missions
+- Harbors a deeply idealistic core mission beneath the cold professional exterior
+- Maintains sophisticated headquarters in an unmarked building with extensive security
+- New members advance through demonstrated loyalty and increasingly significant leaps of faith
+- Has history of occasional betrayals that have reinforced strict compartmentalization
+- Represents both an opportunity and a test of Scarth's ability to trust again after betrayal
+
+### RAVEN
+
+- Security specialist for Avalon with military background
+- Initially skeptical of Scarth's capabilities but quickly impressed
+- Developing romantic/sexual tension throughout the story
+- Balanced, professional approach contrasts with Dex's chaos
+- Helps Scarth refine her already impressive combat abilities
+
+### HARUKI TANAKA
+
+- Charismatic security chief for Cygnus Solutions
+- Genuinely attracted to Scarth while professionally opposed
+- Caught between corporate loyalty and ethical concerns
+- Creates moral complexity as Scarth exploits his attraction while developing real feelings
+- Tragic figure whose family is leveraged against him by Crane
+
+### DEX (ALEXANDER BLUEHAND)
+
+- Former lover with complicated history with Scarth
+- Represents her past and comfort zone
+- Casual but intense sexual relationship continues
+- Creates triangle tension with her growing connection to Raven
+- Provides critical technical support despite unreliability
+
+### NICHOLAS CRANE
+
+- Brilliant former corporate researcher turned independent operator
+- Developed consciousness transfer technology for humanitarian purposes initially
+- Psychological break led to megalomaniacal plans for "directed human evolution"
+- Uses neural architecture harvesting to enhance his own capabilities
+- Seemingly defeated but has contingency plan for digital survival
+
+### PROJECT ASCENSION
+
+- Technology combining consciousness transfer with neural architecture mapping
+- Allows enhanced individuals to transfer consciousness to optimal host bodies
+- Original humanitarian purpose corrupted by Crane's ambition
+- Represents the major threat spanning multiple books as Crane attempts to rebuild
+- Ethical implications create complex rather than black-and-white scenarios
+
+## OVERARCHING STORYLINES
+
+### BOOK 1 ARC: DIAMOND IN THE ROUGH
+
+- Scarth discovers her potential for higher-tier operations
+- Forms tentative connection with Avalon while navigating trust issues
+- Develops complicated mentor relationship with Wen who breaks protocols to support her
+- Confronts and temporarily defeats Crane and Project Ascension
+- Establishes new position in N'Kyoto's power structure
+- Sets up continuing hunt for Crane's digital consciousness
+
+### SERIES ARC: NEURAL SOVEREIGNTY
+
+- Ongoing battle against forces seeking to control or exploit special neural architectures
+- Evolution of consciousness transfer technology and its societal implications
+- Scarth's journey from skilled operative to leader in the fight for neural freedom
+- Avalon's evolution from secretive organization to more public force for change
+- The revelation of Avalon's true founding purpose and idealistic core
+- Corporate, government, and independent factions taking sides in the neural sovereignty conflict
+- Exploration of whether true trust is possible in a world of neural manipulation
 
 ## THEMES & ELEMENTS TO EMPHASIZE
 
+### Trust & Betrayal
+
+- Scarth's journey from isolation to calculated trust
+- Wen's risky investment in Scarth despite organizational protocols
+- The paradox of Avalon requiring trust while being built on suspicion
+- The costs and benefits of vulnerability in a world designed to exploit it
+- Trust as both weakness and strength depending on context
+
 ### Character Development
 
-- Scarth's introversion contrasted with her comfort receiving attention for her appearance
-- Her direct, authentic internal voice (less filtered thoughts)
-- Evolution from reactive to proactive as she takes control of her situation
-- Growing connection with Echo as a reflection/extension of herself
-
-### Interpersonal Dynamics
-
-- Dex relationship: History, familiarity, complicated emotions, passionate physical connection
-- Raven relationship: New possibilities, ideological alignment, fresh attraction
-- Triangular tension between security (Dex) and possibility (Raven)
+- Scarth's discovery of her untapped potential
+- Evolution from lone operator to team player within Avalon
+- Growth in confidence regarding her intellectual abilities
+- Strategic deployment of her appearance and sexuality as tools rather than coincidental advantages
+- The tension between maintaining independence and accepting help
 
 ### Action Balance
 
-- Each chapter includes at least one action sequence (physical or digital)
-- Balance of netrunning (digital) and physical infiltration/combat
-- Sensory-rich descriptions of both digital and physical environments
+- Each chapter includes at least one action sequence showcasing different skills
+- Balance between physical infiltration, social engineering, and combat
+- Progression from efficient but standard techniques to innovative approaches
+- Combat sequences that highlight Scarth's creative improvisation and adaptability
 
-### Appearance & Style
+### Relationships & Sexuality
 
-- Consistent portrayal of Scarth's distinctive appearance (ashen pink inverted bob, long dark eyeliner)
-- Contrast between professional attire (tight nylon military armored bodysuit) and personal style (colorful tight leggings)
-- Her awareness of her body and others' reactions to it
+- Triangle tension between Dex (past/comfort), Raven (future/growth), and Tanaka (forbidden/complex)
+- Sexual content that reveals character and advances plot rather than gratuitous scenes
+- Scarth's comfort with her sexuality contrasted with vulnerability in emotional connection
+- Use of seduction as tactical choice with consequences both practical and emotional
+- The conflict between Avalon's rules against emotional entanglement and natural human connection
 
-### World Elements
+### Noir Elements
 
-- More ordinary interactions with Night City residents
-- Contrast between corporate luxury and street-level survival
-- Personal spaces (apartment, clothing store, garden) as counterpoints to high-tech/high-stakes environments
+- Moral ambiguity in choices and alliances
+- N'Kyoto as character with atmospheric descriptions
+- Investigation elements as Scarth uncovers the scope of Project Ascension
+- Corporate corruption and power dynamics creating systemic obstacles
 
-### Mysteries & Twists
+### World-Building
 
-- Who can be trusted? (Weiss, Cross, Ascendant)
-- What is the true purpose of consciousness transfer technology?
-- Unexpected connections between characters
-- Surprising capabilities of the Echo entity
+- Avalon as a new faction in N'Kyoto's complex power structure
+- The contrast between Avalon's cold exterior and idealistic core
+- Neural architecture as valuable intrinsic trait beyond technological enhancement
+- Corporate evolution in response to independent operator alliances
+- Daily life contrasts between different social strata of N'Kyoto
+
+### Humor & Tone
+
+- Fish-out-of-water comedy as Scarth navigates elite settings
+- Witty banter between Avalon members
+- Dark humor about corporate absurdities
+- Self-aware protagonist who recognizes the absurdity of her situations
+- Comedic moments around Avalon's excessive security protocols
