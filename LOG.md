@@ -10,8 +10,9 @@
 - [x] Revise outline
   - I'm unsure about the neural echo thing
   - And what if the whole thing doesn't even play in the Cyberpunk universe?
+- [x] Update meta documents like `README.md` and `CLAUDE.md`
 - [ ] Update Claude Web project
 
 ## Next
 
-- [ ] Update meta documents like `README.md` and `CLAUDE.md`
+- [ ] Write next chapters
