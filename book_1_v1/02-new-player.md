@@ -192,9 +192,9 @@ The offer is significant enough to make me suspicious. "Why me? There are operat
 
 "Because this job requires someone who can navigate both worlds—the elegance of corporate social functions and the precise technical work of security penetration. Few have that combination of skills." He gestures to the chip. "All the details are there, including advance payment. Review it privately. If you're not interested, keep the advance as compensation for your time."
 
-I still don't touch the chip. "You worked for Cygnus, now you're offering jobs against them. Why should I trust you won't burn me the same way?"
+I still don't touch the chip. "And why should I trust you when I know nothing about you or your motivations?"
 
-His expression shifts subtly—a flicker of something that might be respect. "A fair question. I left Cygnus fifteen years ago because they crossed ethical lines I wasn't willing to accept. I've operated independently since then, building a reputation based on integrity and discretion." He meets my gaze directly. "Check my background. Ask around. I'll wait three days for your decision."
+His expression shifts subtly—a flicker of something that might be respect. "A fair question. I've operated independently for fifteen years, building a reputation based on integrity and discretion." He meets my gaze directly. "Check my background. Ask around. I'll wait three days for your decision."
 
 He rises from the booth with the same fluid economy of movement. "You're better than the work you've been doing, Scarth Johnson. I'm offering a chance to prove it—to yourself as much as anyone." He gestures to the chip. "The access code is your birth date. Contact protocols are included."
 
@@ -278,7 +278,7 @@ The Cygnus job would require everything I have—and some capabilities I'm not s
 
 The question isn't whether I can do it. The question is whether I'm willing to risk failure.
 
-I turn from the window to find Pixel watching me, her green eyes reflecting the city lights. "What do you think, Pix? Ready to eat better food?"
+I turn from the window to find Pixel watching me, her green eyes reflecting the city lights. "What do you think, Pix? Ready for a change?"
 
 She blinks slowly—the feline equivalent of a shrug.
 

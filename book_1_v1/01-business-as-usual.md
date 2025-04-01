@@ -30,7 +30,7 @@ The first guard station is exactly where the building schematics indicated. One 
 
 I could avoid him entirely. The ventilation system would allow me to bypass this checkpoint. But that route would take longer, and time is my enemy tonight. Besides, I've found that sometimes the direct approach is least expected.
 
-I adjust my posture subtly, accentuating the curves of my figure, and let my hair fall forward in the way that draws attention to my face. Then I round the corner deliberately, my steps now audible.
+I adjust my posture subtly, accentuating the curves of my figure, and let my hair fall forward in the way that draws attention to my face. I lower my bodysuit's front seal just enough to create a distracting glimpse of skin. Then I round the corner deliberately, my steps now audible.
 
 The guard looks up, startled. His hand moves toward his weapon, but hesitates as he registers my appearance. That split-second of confusion is all I need.
 
@@ -42,9 +42,15 @@ I step closer, fumbling in my pocket. "Of course, I have them right here..." The
 
 "What department did you say—"
 
-The question dies as I move. My hand snaps up with the tranquilizer patch, slapping it against his neck before he can react. His eyes widen in shock, then glaze as the fast-acting compound enters his bloodstream. I catch his weight as he crumples, easing him silently to the floor.
+The question dies as I move. I pull a folded document from my pocket, extending it toward him with my right hand.
 
-"Neat," I mutter, dragging him into the small security booth. Unconscious, not dead – I don't kill unless absolutely necessary. It's one of my rules. Not from moral qualms, but practicality. Dead bodies escalate situations in ways that unconscious ones don't.
+"I have clearance right here," I say, stepping closer as his attention shifts to the document.
+
+As his eyes focus on the paper, my left hand slides naturally behind his neck in a seemingly casual gesture. The HX-11 activates with a warm pulse along my forearm, and I feel the Bio Blades extend smoothly through my fingertips into the base of his skull, severing his brain stem with surgical precision. His body instantly goes limp, and I catch his weight as he crumples, guiding him silently to the floor.
+
+No sound, no blood.
+
+"Security breach contained," I mutter, dragging him into the small security booth. The document—a coffee shop napkin with a partially drawn map—goes back into my pocket. It's one of my favorite techniques: humans are hardwired to look at things being handed to them. A calculated risk showing my face, but not one I needed to leave unresolved.
 
 I access the security terminal with the guard's credentials, temporarily disabling the next section's motion sensors. The real security in this building isn't human anyway – it's the automated systems, the neural scanners, the DNA readers. The guards are just there to handle the situations the automated systems flag.
 
@@ -164,11 +170,27 @@ I peel off the rain jacket and tactical suit, dropping them into the specialized
 
 Standing under the hot shower, I watch as pink-tinged water swirls down the drain – blood from the guard's neck, despite my careful approach. I flex my fingers, feeling the slight ache around the neural connectors where my claws extend. Dr. Takeda would tell me I'm overusing them, that the tissue needs time to recover between deployments. But Takeda doesn't have to pay my rent.
 
+The shower helps wash away more than just the physical evidence of the job. Each mission leaves a residue that isn't visible – tension, hypervigilance, the constant calculation of risks and contingencies. Water pressure can't remove that entirely, but it helps.
+
+I step out and wipe condensation from the mirror, taking stock of myself. The face looking back is professionally attractive – HX saw to that during my time with them. Not extensive modification, just subtle enhancement of natural symmetry, a refinement of what was already there. My eyes, still bearing their original dark brown color, contain the delicate gold circuitry of the targeting system implants, currently dormant. The pattern is barely visible unless activated, a deliberate design choice that cost extra.
+
+My gaze travels downward, assessing the rest of what HX helped create. The athletic build that turns heads isn't entirely natural, though I maintain it through regular training. Enhanced muscle density for greater strength without obvious bulk. Optimized metabolic efficiency. Reinforced skeletal structure. A corporate investment in the perfect operative, designed to be both lethal and aesthetically pleasing.
+
+Sometimes I wonder which parts of me are still original and which are corporate property. The line blurred years ago.
+
+I trace the small Japanese wave pattern tattoo behind my right ear – one modification that was entirely my choice, a reminder of my mother's heritage. The thin scar along my left forearm remains deliberately unhealed, another personal choice. Some marks I prefer to keep.
+
 After dressing in loose pants and a tank top, I prepare a cup of matcha tea, the ritual movements calming after the intensity of the job. I settle cross-legged on the floor cushion in front of the small butsudan in the corner of my living space. My father's photo smiles back at me, forever frozen at age forty-two.
 
-"Another day, another job," I tell him softly. "Nothing special, just the usual."
+"Clean extraction tonight," I tell him softly. "You would have spotted three security vulnerabilities I missed during the planning phase. Still getting sloppy without you watching over me."
 
 The photo doesn't answer, of course. But the ritual grounds me, reminds me why I do this work. Independence. Security. The freedom to make my own choices after years of corporate control.
+
+Pixel jumps into my lap, demanding attention. Her biomonitor glows softly beneath her fur as I stroke her, the gentle purring creating a counterpoint to the distant sounds of the entertainment district three blocks away. My apartment isn't large, but it's mine – secured with multiple systems and carefully positioned to provide quick access to four different transit routes out of the Mid-District.
+
+I've made it comfortable in my minimalist way. A custom sleeping platform with built-in security features rather than a traditional bed. A compact kitchenette with premium nutrition synthesizer. A small workspace with secured communications equipment. No decorations except the butsudan and a single piece of calligraphy – the Japanese character for "freedom" – mounted near the door.
+
+Everything functional, nothing extraneous. Just like my approach to life since leaving HX.
 
 My secure comm unit chimes softly from the bedroom – Finch, probably, confirming the extraction point for the data handoff tomorrow. But when I check the message, it's not from any contact I recognize. The sender code is carefully anonymized, bounced through multiple proxy servers.
 
