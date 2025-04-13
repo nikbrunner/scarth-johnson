@@ -1,0 +1,15 @@
+{
+    "name": "scarth-johnson",
+    "version": "1.0.0",
+    "description": "This project aims to create deeply immersive, audiobook-style narratives that transport readers/listeners into the original cyberpunk world of Scarth Johnson. Set in the year 2125 in N'Kyoto, these stories follow infiltration specialist and extraction expert Scarth Johnson as she navigates corporate intrigue, technological dangers, and personal challenges in a dystopian future where the line between biology and technology continues to blur.",
+    "main": "index.js",
+    "scripts": {
+        "format": "prettier --write '**/*.md'"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^3.5.3"
+    }
+}
