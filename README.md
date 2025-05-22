@@ -1,11 +1,11 @@
 # Scarth Johnson Series
 
 This project aims to create deeply immersive, audiobook-style narratives that
-transport readers/listeners into the original cyberpunk world of Scarth Johnson.
-Set in the year 2125 in N'Kyoto, these stories follow infiltration specialist
-and extraction expert Scarth Johnson as she navigates corporate intrigue,
-technological dangers, and personal challenges in a dystopian future where the
-line between biology and technology continues to blur.
+transport readers/listeners into the world of Scarth Johnson. Set in the year
+2125 in N'Kyoto, these stories follow infiltration specialist and extraction
+expert Scarth Johnson as she navigates corporate intrigue, technological
+dangers, and personal challenges in a dystopian future where the line between
+biology and technology continues to blur.
 
 The series employs vivid storytelling, sensory-rich descriptions, and
 well-developed characters to create an engaging narrative experience. Stories

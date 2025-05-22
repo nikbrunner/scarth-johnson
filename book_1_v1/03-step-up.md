@@ -1,680 +1,450 @@
 ## CHAPTER 3: STEP UP
 
-"It's like riding a bike," Zoe tells me. "You never really forget."
+"It's like riding a bike," Zoe tells me over breakfast. "You never really
+forget."
 
-We're sitting in The Fractured Glass before opening hours, reviewing corporate
-social protocols on a secured tablet. Marcus Wen provided a comprehensive
-dossier on the Cygnus Solutions event—guest list, venue layout, security
-measures, and expected social dynamics. It's been five years since I navigated a
-high-society corporate function. The muscle memory feels rusty.
+We're sitting in her small apartment above The Fractured Glass, going over
+corporate social protocols on a secured tablet. The morning light filters
+through her curtains, casting soft patterns across the room that make her
+bioluminescent arm modifications pulse gently in response. It's been five years
+since I've had to navigate a high-society corporate function, and those
+particular muscles feel atrophied.
 
 "Except if you fall off this bike, the consequences are significantly worse than
-scraped knees," I mutter, swiping through profiles of key Cygnus executives I
+scraped knees," I mutter, scrolling through profiles of Cygnus executives I
 might encounter.
 
-Zoe smiles, the bioluminescent modifications on her arm pulsing with amusement.
-"I've seen you talk your way past HX security with a fabricated identity and
-corrupted credentials. Corporate small talk should be manageable by comparison."
+She laughs, pouring herself more coffee. "I've seen you talk your way past
+military-grade security with nothing but a fabricated identity and a smile.
+Corporate small talk should be manageable."
 
-"Different skill set. Security guards follow predictable protocols. Corporate
-socialites are chaos variables."
+"Different skill set entirely." I lean back in her kitchen chair, stretching.
+The tank top I'm wearing rides up slightly, and I catch Zoe's appreciative
+glance before she looks away. Even with friends, the attention is automatic.
+"Security guards follow predictable protocols. Corporate socialites are chaos
+variables with agendas I can't predict."
 
-"True." She takes the tablet, scrolling to a section on the event itself. "But
-you have advantages. The event is showcasing NeuroSync technology to potential
-investors and partners. Every person there will be focused on making
-connections, gathering intelligence, and positioning themselves. No one will be
-paying close attention to another well-dressed woman circulating through the
-crowd."
+"True," she concedes, taking the tablet to scroll through the event details.
+"But Marcus has given you every advantage. The pre-event function tonight is
+smaller, more intimate. Perfect for reconnaissance."
 
-She's right, but that doesn't settle the unease in my stomach. I've deliberately
-avoided corporate spaces since my exit from HX. The thought of willingly
-stepping back into that world, even under a false identity, makes my pulse
-quicken in ways that armed security never does.
+Pre-event. Right. Marcus had explained it yesterday—an exclusive preview for key
+stakeholders and select media before the main product launch. Fewer people, less
+security, but all the important players would be there. Including Haruki Tanaka,
+Cygnus's head of security.
 
-"Your cover identity is solid," Zoe continues, sensing my hesitation. "Mira
-Chen, technology correspondent for Pacific Rim Business Journal. Credentials are
-being fabricated now, and you already have the necessary background to discuss
-tech intelligently."
+"Your cover identity is bulletproof," Zoe continues. "Mira Chen, technology
+correspondent for Pacific Rim Business Journal. I've read some of her actual
+work—you could pull off her writing style if you had to."
 
-"And if I run into someone who knows the real Mira Chen?"
+I'm only half-listening, my mind already shifting into operational mode. The
+preview is at 6 PM in Cygnus Tower's executive lounge. Cocktails, light
+networking, and a private demonstration of their NeuroSync technology for the
+inner circle. Perfect for getting close to the people who matter.
 
-"The real Mira Chen is currently on assignment in Australia and hasn't been to
-N'Kyoto in three years. The odds of encountering someone with a personal
-connection to her are minimal." Zoe looks up from the tablet. "Marcus doesn't
-leave details to chance."
+"What about afterward?" I ask.
 
-No, he doesn't. In the two days since I accepted the job, I've been impressed by
-the thoroughness of his preparation. Every contingency addressed, every resource
-provided, no expense spared. It's a level of professionalism I haven't
-experienced since leaving corporate service.
+"Meaning?"
 
-"The key is to blend in while gathering the necessary intel to access the server
-room," Zoe says. "You don't need to be the most memorable person there—just
-unmemorable enough that no one questions your presence."
+"After I charm my way through their little cocktail party. Do I go straight into
+the main infiltration, or—"
 
-"Unmemorable isn't typically my problem," I say dryly.
+"Scarth." Zoe sets down her cup, giving me a look. "You're overthinking this.
+Tonight is just reconnaissance. Get a feel for the players, the layout, the
+security measures. The real job happens tomorrow night at the main event."
 
-She laughs. "Fair point. You'll need to calibrate your natural... presence... to
-be noticed enough to seem legitimate without attracting undue attention."
+She's right, of course. But I've been out of this game long enough that every
+instinct screams to compress timelines, to get in and out as quickly as
+possible. Corporate spaces make me twitchy.
 
-My "natural presence," as Zoe delicately puts it, has always been a double-edged
-sword. People notice me, regardless of my intentions. In some situations, it's
-useful distraction. In others, a liability. For this job, I'll need to walk a
-careful line.
+An hour later, I'm standing outside Circuit Couture, debating whether Lin's
+dress is too much or not enough. Through the window, I can see her working on
+something intricate, her dark hair pulled back as she focuses on delicate
+stitching that probably costs more than most people make in a month.
 
-"Have you decided what you're wearing?" Zoe asks.
+The door chimes as I enter, and Lin looks up with a knowing smile.
 
-"Lin's dress. Marcus approved it—apparently she's outfitted other operatives for
-him before."
+"I wondered when you'd be back," she says, setting aside her work. "Ready to see
+how the dress fits?"
 
-"That doesn't surprise me. Lin's always known more than she lets on." Zoe closes
-the tablet. "The dress is just one component. You'll need the complete
-package—hair, makeup, accessories, demeanor."
+"How did you—never mind." In N'Kyoto, information travels faster than light, and
+Lin has always been plugged into networks I don't fully understand.
 
-"I remember how to play corporate."
+She retrieves the garment bag from yesterday, unzipping it to reveal the navy
+silk with gold accents. In daylight, the reactive fibers shimmer subtly, and I
+can see the sophisticated architecture of the underlying armor mesh.
 
-"Of course you do." She stands, gathering her things. "But you need one more
-resource before you're ready, and he's famously difficult to pin down."
+"Try it on," Lin insists, gesturing toward the fitting room. "I made some
+adjustments based on your measurements from your last visit."
 
-I already know who she means. "Dex."
+In the privacy of the small room, I strip out of my leggings and tank top. The
+dress slides on like it was grown for my body—which, given Lin's skill with
+bioresponsive fabrics, it might have been. The neckline is sophisticated without
+being revealing, the hemline hits just above the knee, and the fit accentuates
+my figure in ways that feel both professional and... potent.
 
-"You'll need cutting-edge tech for this level of job. No one has better access
-to proprietary prototypes than Alexander Bluehand."
+I step out to examine myself in Lin's three-way mirror. The woman looking back
+is someone I used to know—polished, confident, dangerous in a way that corporate
+types find both attractive and intimidating.
 
-She's right, though I've been avoiding that particular conclusion. Dex and I
-have history—complicated, intense, and ultimately painful history. But his
-access to bleeding-edge technology is unmatched outside corporate R&D labs.
+"Perfect," Lin murmurs, making tiny adjustments to the shoulders. "You look like
+you could buy and sell half of Cygnus without breaking a sweat."
 
-"I know where to find him," I say, rising from the table.
+"That's the idea." I turn to examine the back. The dress hugs my ass in a way
+that's going to draw attention, but not so obviously that it screams
+unprofessional. Lin knows her craft.
 
-"Be careful, Scarth." Zoe's expression turns serious. "Dex is brilliant, but his
-loyalty is always to the highest bidder."
+"Your hair needs work though," she adds, studying my reflection critically.
 
-"I learned that lesson the hard way."
+She's right. The pink-ash color has faded to something indeterminate, and the
+inverted bob needs reshaping. "Know anyone who can fix it on short notice?"
 
-She nods, understanding passing between us. My relationship with Dex ended when
-I discovered he was selling information about HX security systems—information I
-had unknowingly provided. It was never proven that he contributed to my downfall
-at the company, but the timing was suspiciously convenient.
+"I know someone." Lin produces her comm unit, firing off a quick message. "Kenji
+owes me a favor. He'll take care of you this afternoon."
 
-"Marcus left something for you," Zoe says, producing a small case from beneath
-the bar. "New comms equipment and an advance for expenses."
+Three hours later, I'm sitting in Kenji's chair in a boutique salon that smells
+like expensive products and quiet money. My hair is now a proper ashen pink
+again, the longer front pieces framing my face in a way that draws attention to
+my eyes. He's also touched up my signature eyeliner—the long, dark lines that
+I've worn since my HX days.
 
-I take the case, surprised by its weight. Inside is a state-of-the-art
-communications module that must have cost more than my last three jobs combined,
-along with a credstick loaded with enough currency to cover significant
-"expenses."
+"Very classic," Kenji says, putting the finishing touches on the style.
+"Corporate chic with just enough edge to suggest you're not entirely tame."
 
-"He doesn't mess around," I murmur.
+I study myself in his mirror. Between the hair, the subtle makeup enhancement,
+and the dress waiting back at my apartment, I'm going to look like someone worth
+talking to. Someone worth underestimating.
 
-"No, he doesn't." Zoe places a hand on my arm. "This job is your audition,
-Scarth. Succeed, and doors open that you didn't even know existed."
-
-"And if I fail?"
-
-Her bioluminescent patterns pulse once, darkly. "Then you're back to
-Meridian-level jobs. If you're lucky."
+But first, I need equipment.
 
 ---
 
-Dex's workshop occupies the top floor of a repurposed industrial building in
-what used to be the manufacturing district before production moved to automated
-facilities outside the city. The exterior is deliberately dilapidated—crumbling
-concrete, graffiti-covered walls, broken windows patched with synthetic polymer
-sheets. It screams "abandoned" to anyone passing by.
+Dex's workshop hasn't changed much since my last visit six months ago—still a
+technological wonderland hidden behind carefully maintained decay. The security
+gauntlet to reach his inner sanctum is as paranoid as ever, but my biometrics
+still register in his system.
 
-I know better. The building contains some of the most advanced security
-technology in N'Kyoto, camouflaged by strategic decay. Finding the actual
-entrance requires knowledge that isn't available to casual visitors.
+He's exactly where I expected to find him, curled in his acceleration chair with
+holographic displays floating around him like digital prayer flags. The electric
+blue of his modified eye is bright in the dim light, and the bioluminescent
+circuit patterns along his arms pulse in rhythm with whatever he's working on.
 
-I approach from the east side, identifying the specific pattern of broken
-windows that indicates the current access point. This month, it's a maintenance
-door hidden behind a dumpster overflowing with convincingly realistic trash. The
-door itself appears rusted shut, but a careful application of pressure at
-specific points triggers the concealed scanner to read my biometric signature.
-
-There's a soft click, and the door opens inward to reveal a pristine white
-corridor—a stark contrast to the building's exterior. I step inside, the door
-sealing behind me as decontamination mist descends from ceiling vents, removing
-any external particulates from my clothing and skin.
-
-"Identify," comes a computerized voice.
-
-"Scarth Johnson."
-
-"Verification required."
-
-I suppress a sigh. "The Kyoto cherry blossoms only fall once."
-
-It's a passphrase Dex implemented years ago, a private joke from our brief time
-together. The fact that he hasn't changed it speaks to either sentimentality or
-laziness. Knowing Dex, probably the latter.
-
-The corridor lights shift from white to blue, indicating acceptance, and a panel
-slides open at the far end. I follow the illuminated path through a series of
-security checkpoints—each more sophisticated than the last—until I reach the
-central workspace.
-
-Dex's sanctum is a technological wonderland. Curved display panels form a
-270-degree arc around a modified acceleration chair, currently occupied by his
-lean form. Holographic projections float in the air, showing what appears to be
-a security system schematic. Multiple workbenches line the walls, each dedicated
-to different projects in various stages of completion.
-
-"Well, well," comes his voice before he turns. "The prodigal operator returns."
-
-Alexander "Dex" Bluehand swivels to face me, his custom optical implant glowing
-electric blue against his pale face. He's thinner than when I last saw him, his
-shock of blue hair longer and more chaotic, but the sharp intelligence in his
-remaining natural eye is unchanged.
+"Well, well," he says without turning around. "Look what the corporate world
+dragged back in."
 
 "Hello, Dex."
 
-He grins, the expression transforming his face from austere to boyish in an
-instant. "It must be something significant to bring you to my humble workshop.
-Last time I pinged you, I received a rather creative suggestion about where to
-store my interface cables."
+He swivels to face me, and I catch the moment his gaze travels from my face down
+to my legs and back up. The new leggings I'm wearing—deep orange today—hug every
+curve, and I see his pupils dilate slightly as he takes in the full picture.
 
-"I was working."
+"Corporate infiltration," he says, reading my body language as easily as code.
+"High-level, judging by the way you're dressed. Someone's moving up in the
+world."
 
-"You're always working." He rises from the chair in a fluid motion, the
-bioluminescent circuit patterns along his arms pulsing as he stretches. "Yet
-here you are, which means you need something only I can provide."
+I don't confirm or deny, but we both know why I'm here. "I need equipment.
+Cutting-edge."
 
-I hate how easily he reads me, even after all this time. "I have a job that
-requires specialized equipment."
+"For Cygnus Solutions." It's not a question. Dex has information sources
+throughout N'Kyoto, and nothing that happens in the corporate district escapes
+his attention for long.
 
-"Corporate level?"
+"Are you going to help, or should I find someone else?"
 
-I hesitate, but there's no point in hiding it. Dex has information sources
-throughout N'Kyoto. "Cygnus Solutions."
+He grins, unfolding from his chair with that fluid grace I remember too well.
+"Oh, I'll help. But first..." He steps closer, close enough that I can smell the
+ozone and synthetic sandalwood that always clings to him. "It's been a while,
+Scarth."
 
-His eyebrows rise, the blue optical implant brightening with interest. "Moving
-up in the world, Scarth? That's several tiers above your usual operations."
+"Six months," I say, not stepping back even though every instinct tells me to
+maintain distance.
 
-"Are you going to help or not?"
+"You look good." His gaze lingers on my mouth for a moment too long. "Better
+than good."
 
-"Of course I'll help," he says, circling me like a predator assessing prey. "But
-I'm curious—who's backing this venture? You don't have the resources to prepare
-for Cygnus-level security on your own."
+The air between us thickens with familiar tension. We have history—complicated,
+intense history that ended badly but never really ended. Even now, I can feel
+the pull of it, the way my body responds to his proximity despite everything my
+brain knows about trusting Alexander Bluehand.
 
-"That's not your concern."
+"Equipment, Dex," I say, but my voice comes out softer than intended.
 
-"Marcus Wen," he says confidently. "It has to be. No one else would take the
-risk on an operator who's been strictly mid-tier for the past year."
+"Right. Business." He doesn't move away though. "What's the target?"
 
-I keep my expression neutral, but he catches the minute reaction anyway. His
-grin widens.
+"Executive-level security systems. Quantum-7 protocols. I need to access
+isolated servers without triggering integrity monitoring."
 
-"Good for you. Wen only works with the best." He stops circling, standing close
-enough that I can smell the faint electrical scent that always accompanies
-him—ozone and synthetic sandalwood. "What specifically do you need?"
+His eyebrows rise. "Ambitious. Also expensive."
 
-"Access technology for Cygnus security systems. Data extraction capabilities for
-isolated servers. Emergency countermeasures."
+"I can pay."
 
-He walks to a workbench, gesturing for me to follow. "Cygnus uses Quantum-7
-protocols for their main security grid. Bleeding edge, but not impenetrable." He
-retrieves a small device from a secure drawer. "This neural bridge bypass will
-connect directly with their security panels, spoofing authorized biometric
-patterns."
+"I'm sure you can." He finally steps back, moving to one of his secured
+workbenches. "But payment isn't what I'm interested in."
 
-I examine the device—smaller than the one I used at Meridian, with more
-sophisticated architecture. "Will it work on executive-level restrictions?"
+Here it comes. With Dex, there's always a hook.
 
-"Up to and including C-suite," he confirms. "They updated their security last
-month, but the core vulnerability remains. Their system checks for pattern
-matches without verifying the transmission source."
+"Dinner," he says, retrieving a small device from a locked drawer. "After your
+job. Just the two of us, like old times."
 
-He moves to another workbench and unlocks a cabinet filled with data extraction
-equipment. "For the server, you'll need this." He selects a specialized spike,
-barely larger than my thumb. "It will copy encrypted data without triggering the
-integrity monitoring systems. Quantum-level encryption breaking would take
-months, but I assume your client has those resources."
+I study his profile as he examines the piece of tech. The sharp line of his jaw,
+the way his blue hair falls across his forehead, the careful precision of his
+movements. We were good together once—professionally and personally. Until I
+discovered he was selling information about my operations to the highest bidder.
 
-"And emergency countermeasures?"
+"That's all you want? Dinner?"
 
-Dex's expression turns serious. "Cygnus security response is no joke, Scarth. If
-you're identified, they deploy Enforcer units within 45 seconds. You won't
-outrun or outfight them." He produces a small silver disc. "Emergency teleport.
-One-time use, pre-programmed safe extraction point. Use it only as an absolute
-last resort—the genetic disruption takes days to recover from."
+"That's all I want." He turns back to me, holding a neural bridge bypass that's
+significantly more advanced than anything I've seen. "Consider it an investment
+in our renewed professional relationship."
 
-I take the disc, noting its weight. Teleportation technology exists but is
-prohibitively expensive and medically risky. The fact that Dex has access to it
-raises questions I probably don't want answered.
+The device is beautiful in the way that only bleeding-edge tech can be—elegant,
+minimalist, and undoubtedly worth more than my apartment. Dex doesn't make
+investments lightly.
 
-"How much?" I ask, reaching for the credstick Marcus provided.
+"Fine," I say, accepting the device. "Dinner."
 
-Dex waves it away. "Consider it an investment in our renewed professional
-relationship."
+His smile is triumphant, but there's something else in it too. Something that
+looks almost like hope.
 
-I narrow my eyes. "What do you want in return?"
+He gathers additional equipment—a quantum-encrypted data spike, emergency
+countermeasures I can't identify, and a small silver disc that makes my skin
+prickle when I get too close to it.
 
-"Dinner," he says simply. "After your job is complete. Just the two of us,
-catching up on old times."
+"Emergency teleport," he explains, noticing my reaction. "One-time use,
+pre-programmed extraction point. The genetic disruption is... unpleasant, but
+survivable."
 
-It's never simple with Dex. Dinner means information exchange. It also means
-navigating the complicated attraction that still simmers between us despite
-everything that happened.
+I take it carefully, feeling the weight of whatever exotic materials it
+contains. "This is military-grade equipment, Dex. How did you—"
 
-"Fine. Dinner."
+"Some questions are better left unasked." He packages everything in a
+specialized case that will shield the contents from most scanners. "Just promise
+me you'll be careful. Cygnus security isn't a game."
 
-His smile is triumphant as he gathers the equipment into a specialized case.
-"I've missed working with you, Scarth. Few people appreciate the artistry of
-what I do."
+There's genuine concern in his voice, which surprises me. "Since when do you
+worry about my jobs?"
 
-"I've always appreciated your work," I reply carefully. "It was your other
-activities I took issue with."
+"Since never." But his eyes say something different. "Just... don't get yourself
+killed proving a point, Scarth. Whatever Marcus Wen is offering you, it's not
+worth dying for."
 
-The blue glow of his optical implant dims slightly. "Ancient history. I've
-evolved since then."
+I take the case, our fingers brushing as he hands it over. The contact sends an
+unwelcome jolt through me, memories of other touches, other moments when we
+didn't have professional complications between us.
 
-"Have you?"
+"Thanks for the equipment," I say, stepping back before I do something stupid.
 
-"We all change." He hands me the case, his fingers brushing mine deliberately.
-"Some adapt to survive. Others transform to thrive. You were always in the
-latter category—even if you haven't realized it yet."
-
-The touch sends an unwelcome current through me, memories of our time together
-surfacing despite my best efforts to suppress them. Whatever his betrayals, Dex
-and I had a connection that went beyond the physical—a shared understanding of
-living between worlds, belonging fully to neither.
-
-"Thanks for the equipment," I say, stepping back to break the contact.
-
-"One more thing." He reaches into his pocket and produces a small silver
-earpiece. "Latest gen subdermal communications link. Undetectable by standard
-scanners, connects directly to the auditory nerve. Just in case you need...
-consultation... during the operation."
-
-I take it, recognizing the offer for what it is—a way back into my professional
-circle. "I work alone, Dex."
-
-"Everyone needs backup sometimes." His voice softens. "Even you, Scarth."
-
-I leave without responding, the case secure under my arm and the earpiece a
-weighted presence in my pocket. Dex always complicates things, mixing business
-with the personal in ways that blur boundaries. But he's right about one
-thing—this job requires resources beyond my usual scope. Having access to his
-expertise could make the difference between success and failure.
-
-Whether I can trust him is another question entirely.
+"Thank me by coming back alive." His gaze holds mine for a moment longer. "I'll
+be waiting for that dinner."
 
 ---
 
-The transformation begins three hours before the Cygnus event.
-
-Lin Chen's navy dress with gold accents fits perfectly, the reactive silk
-adapting to my body's contours while the micro-armor mesh provides reassuring
-structure. My hair has been professionally colored and styled, the pink-ash
-refreshed to a more sophisticated rose-gold that complements the dress. Subtle
-makeup enhances my features without drawing undue attention, and the gold
-accents strategically echo the circuitry patterns of my optical enhancements.
-
-The woman in the mirror looks like someone I used to know—a corporate version of
-myself that I'd deliberately left behind. The posture is different, straighter
-and more formal. The expression is coolly confident rather than vigilant. Even
-the way the light catches my modified eyes seems altered, more sophisticated
-than dangerous.
-
-I secure Dex's equipment beneath the dress, the special compression pocket Lin
-designed holding everything without disrupting the garment's lines. The neural
-bridge bypass rests against my left thigh, the data spike against my right, and
-the emergency teleport disc is concealed within a seemingly decorative gold
-bracelet. Additionally, I'm wearing three small defensive countermeasures
-disguised as jewelry—each capable of creating diversions if needed.
-
-The final touch is Dex's communications earpiece, which I reluctantly insert. It
-melds with my inner ear, connecting seamlessly to my auditory nerve. A soft
-chime indicates connection to the secure network Marcus established for the
-operation.
-
-"Testing comms," comes his voice, startlingly clear as if he's standing beside
-me.
-
-"Receiving," I confirm.
-
-"Excellent. Your transportation will arrive in fifteen minutes. The driver has
-been briefed on security protocols and entry procedures."
-
-"Understood."
-
-I run through final equipment checks as I wait, ensuring everything is
-positioned for quick access if needed. The credentials Marcus provided for Mira
-Chen are impeccable—genuine press pass, digital portfolio of previous articles,
-even social media history establishing her as a legitimate technology
-correspondent.
-
-The car that arrives is appropriately understated—a luxury model without being
-ostentatious, bearing corporate service markings that will allow it to access
-the restricted drop-off area at the Cygnus Tower. The driver is professional and
-silent, navigating N'Kyoto's evening traffic with practiced ease.
-
-"Status update," Marcus's voice comes through the earpiece as we approach the
-corporate district.
-
-"En route. ETA eight minutes."
-
-"Be advised: security has been enhanced since our initial briefing. Additional
-biometric scanning at the main entrance. Mira Chen's profile has been updated in
-their system, but minimize direct scanner exposure if possible."
-
-"Acknowledged."
-
-The Cygnus Tower rises before us, its twisting form illuminated from within by a
-soft blue glow. Unlike the utilitarian Meridian BioTech building, Cygnus
-embraces artistic design—the structure appears to spiral upward like a strand of
-DNA, each level slightly offset from the one below. The exterior is a blend of
-traditional glass and living architectural elements, with bioluminescent
-patterns flowing across its surface in hypnotic sequences.
-
-"Approaching primary entrance," I report as the car turns into the restricted
-access lane.
-
-"Remember your objective," Marcus says. "The primary goal is data extraction
-from the isolated server. All social engagement is in service of that goal."
-
-"Understood."
-
-The car comes to a smooth stop at the designated arrival point. A Cygnus
-attendant—distinguishable by the subtle blue circuit patterns embroidered on his
-formal attire—opens the door. I emerge with practiced grace, adopting the
-confident posture of someone who belongs in these elegant surroundings.
-
-"Welcome to Cygnus Solutions," the attendant says. "May I see your invitation,
-please?"
-
-I produce the digital credential, allowing him to scan it with his wrist-mounted
-device. The screen flashes green, confirming my identity as Mira Chen, Pacific
-Rim Business Journal.
-
-"Thank you, Ms. Chen. Please proceed to the main reception area. The showcase
-begins in thirty minutes."
-
-I follow the illuminated path toward the grand entrance, my eyes cataloging
-security measures beneath the guise of journalistic observation. Armed guards
-positioned discreetly at strategic points. Concealed scanner arrays in the
-decorative columns. Aerial surveillance drones disguised as architectural
-elements.
-
-The reception area is a vast atrium dominated by a spiraling sculpture of light
-that seems to flow like water despite having no physical form. Guests mill about
-in expensive attire, corporate badges and affiliations subtly indicated through
-color schemes and emblems. Wait staff circulate with drinks and delicate
-bioengineered hors d'oeuvres that glow with gentle bioluminescence.
-
-I accept a flute of champagne from a passing server, using the moment to scan
-the room for key personnel identified in the briefing materials. Several Cygnus
-executives are already present, engaged in animated conversation with potential
-investors. A small group of approved media representatives congregates near a
-holographic display showing the Cygnus logo transforming into abstract patterns.
-
-"I'm in," I murmur, the subvocalization picked up by the earpiece's sensitive
-receptors.
-
-"Good," Marcus replies. "The server room is located on the mezzanine level,
-northeast quadrant. Access will be restricted until after the main presentation.
-Use this time to establish your presence and identify potential access routes."
-
-I circulate through the gathering, adopting the observant but slightly detached
-demeanor of a technology journalist. I exchange pleasantries with other members
-of the press, drop appropriate industry terminology into conversation, and
-gradually work my way toward the mezzanine access points.
-
-"Scarth," Marcus's voice comes through the earpiece with unusual urgency. "Be
-advised—Diana Weiss just entered the east entrance."
-
-My heart rate spikes, but I maintain my external composure. Diana Weiss was my
-direct superior at HX, the one who orchestrated my firing and subsequent
-blacklisting. If anyone would recognize me despite the changed appearance, it
-would be her.
-
-"Understood," I reply, shifting my position to maintain visual awareness of the
-east entrance while avoiding direct line of sight.
-
-Diana appears at the top of the stairs, as elegantly imposing as I remember. Her
-silver-streaked dark hair is pulled into a severe bun, her sharp features
-accentuated by subtle cosmetic enhancements. She wears a tailored suit in slate
-gray, the only adornment a pin bearing the combined logos of HX and
-Cygnus—suggesting a partnership I wasn't aware existed.
-
-"Weiss is now consulting for Cygnus on their neural mapping technologies,"
-Marcus explains, obviously noting my interest in the pin. "Her presence is
-unexpected but not surprising given the nature of the NeuroSync announcement."
-
-I move deeper into the crowd, using taller guests as visual barriers. Diana
-hasn't seen me yet, but it's only a matter of time in the enclosed space. I need
-to adjust my approach.
-
-A soft chime indicates the imminent start of the presentation, and guests begin
-moving toward the main showcase hall. I use the movement to further distance
-myself from Diana's position, following the flow toward the massive doors at the
-far end of the atrium.
-
-The showcase hall is even more impressive than the reception area—a circular
-space with tiered seating surrounding a central stage. The ceiling is a dome of
-reactive glass that currently displays a night sky filled with constellations
-that subtly form the Cygnus logo when viewed from certain angles.
-
-I find a seat on the upper tier where I can observe both the presentation and
-the room exits. Diana Weiss takes a position near the front, close to the Cygnus
-executives—confirmation of her significant role in whatever is being unveiled
-tonight.
-
-"The server room will be minimally staffed during the presentation," Marcus
-informs me. "Security personnel are focused on the showcase hall."
-
-"Acknowledged, but Weiss complicates extraction timing."
-
-"Adapt as necessary. The data is the priority."
-
-The lights dim, and a tall Japanese man in an impeccably tailored blue suit
-takes the stage. Haruki Tanaka, Chief of Security for Cygnus Solutions' N'Kyoto
-division, according to the briefing materials. His physical presence is
-immediately commanding—athletic build, perfect posture, subtle but high-end
-enhancements evident in the precision of his movements.
-
-"Distinguished guests," Tanaka begins, his voice rich and confident, "thank you
-for joining us on this momentous evening. For two decades, Cygnus Solutions has
-pushed the boundaries of what is possible at the intersection of human
-consciousness and technology. Tonight, we take the next evolutionary step."
-
-The dome above transforming into a massive display showing neural connection
-patterns that pulse and flow with lifelike rhythm.
-
-"NeuroSync technology represents a paradigm shift in how we understand the
-relationship between individual consciousness and shared experience," Tanaka
-continues. "For the first time, we can create direct connection between
-minds—not merely communication, but true shared consciousness."
-
-Murmurs ripple through the audience as the implications sink in. Shared
-consciousness has been theorized but never successfully implemented outside
-experimental environments with significant limitations. If Cygnus has achieved a
-workable solution, it represents a staggering advancement.
-
-The presentation continues with technical explanations and carefully staged
-demonstrations using volunteer Cygnus employees. The technology appears to allow
-limited sharing of sensory experiences and emotional states between connected
-individuals—impressive, but clearly still in early development stages.
-
-Throughout the presentation, I'm evaluating escape routes and security positions
-while maintaining the appearance of a journalist taking mental notes. Diana
-Weiss remains focused on the stage, but I catch her scanning the audience
-periodically—a habit from her security background at HX.
-
-As the presentation reaches its midpoint, I recognize my opportunity. Security
-attention is fully directed toward the demonstration, and the server room will
-be at its most vulnerable.
-
-"Moving to secondary objective," I murmur, rising from my seat and slipping
-toward the exit with the deliberate purpose of someone seeking a restroom.
-
-"Acknowledged," Marcus responds. "Proceed with caution."
-
-I navigate through the curved corridors of the mezzanine level, my internal map
-guiding me toward the northeast quadrant. My demeanor shifts subtly as I
-walk—still professional but now purposeful, as if on official business. It's a
-delicate balance between looking like I belong and not drawing attention.
-
-The server room is accessible through a staff corridor marked with subtle Cygnus
-signage. I approach confidently, already preparing the neural bridge bypass
-concealed beneath my dress. The security panel beside the door requires both
-biometric confirmation and authorization codes—exactly as outlined in the
-briefing materials.
-
-I place my palm against the scanner, the neural bridge beneath my skin
-activating and feeding the system the expected patterns of an authorized
-executive. The panel flashes green, and the door slides open with a soft
-pneumatic hiss.
-
-Inside, the server room is bathed in blue light from the rack-mounted systems
-that line the walls. The isolated server containing the NeuroSync data is
-immediately identifiable by its standalone configuration and enhanced security
-measures. As expected, the room is empty—all technical staff assigned to support
-the ongoing presentation.
-
-I move quickly to the isolated system, retrieving the specialized data spike
-from its concealed pocket. The interface port is protected by an additional
-layer of security, but the spike's advanced protocols make short work of the
-defenses. Connection established, data transfer beginning.
-
-"In position, beginning extraction," I subvocalize.
-
-"Understood," Marcus replies. "Be advised, presentation entering final phase.
-Expedite if possible."
+The Cygnus Tower executive lounge occupies the entire forty-second floor, its
+floor-to-ceiling windows offering a commanding view of N'Kyoto's corporate
+district. The space is elegantly minimalist—all clean lines and subtle lighting
+designed to make the people in it feel important. About thirty guests mill
+around with drinks, their conversations creating a sophisticated hum that speaks
+of serious money and serious power.
+
+I've been here for twenty minutes, nursing a glass of champagne and doing what
+corporate types call "networking." In reality, I'm cataloging exits, security
+measures, and the behavioral patterns of everyone who might matter tomorrow
+night.
+
+The preview demonstration was impressive—a carefully controlled display of
+NeuroSync technology allowing two volunteers to share sensory experiences in
+real-time. Revolutionary tech, assuming they can scale it beyond laboratory
+conditions. The kind of breakthrough that makes or breaks corporations.
+
+"Fascinating, isn't it?"
+
+The voice comes from behind me, cultured and confident. I turn to find myself
+looking at Haruki Tanaka, Cygnus's head of security. He's even more imposing in
+person than his photos suggested—tall, athletic build evident even in his
+perfectly tailored suit, with the kind of presence that suggests he's accustomed
+to being the most dangerous person in any room.
+
+"The implications are staggering," I reply, adopting the slightly breathless
+tone of a technology journalist encountering something genuinely revolutionary.
+"Direct consciousness sharing could transform everything from education to
+entertainment to..." I let the sentence trail off, implying possibilities too
+numerous to list.
+
+"Therapy," he supplies, moving to stand beside me at the window. "Medical
+treatment. Criminal investigation. The applications are limited only by our
+imagination."
+
+Up close, I can see the subtle tells of high-end modifications—the too-perfect
+clarity of his skin, the precision of his movements that suggests enhanced
+reflexes. But unlike most corporate executives, he hasn't gone overboard with
+obvious augmentation. Confident enough in his natural capabilities not to need
+flashy upgrades.
+
+"And the ethical implications?" I ask, tilting my head in a way that makes my
+hair catch the light. "Sharing consciousness means sharing everything—memories,
+experiences, thoughts we might prefer to keep private."
+
+His dark eyes study my face with interest that seems both professional and
+personal. "An astute observation, Ms...?"
+
+"Chen. Mira Chen, Pacific Rim Business Journal." I extend my hand, noting the
+strength of his grip when he takes it. "I imagine security concerns keep you
+busy with technology this revolutionary."
+
+"They do indeed." He doesn't release my hand immediately, and I don't pull away.
+"Though I'd argue that security is less about the technology than the people
+using it. Hardware can be protected. Human nature is more... unpredictable."
+
+Is he flirting with me? The way he's looking at me suggests yes, but with
+corporate types, professional interest and personal attraction often blur
+together. Either way, it's useful.
+
+"Speaking from experience?" I ask, letting a hint of challenge into my voice.
+
+"Always." His smile is small but genuine. "Would you like to see something not
+included in tonight's demonstration?"
+
+This is either a security test or a genuine offer of privileged access. Given my
+mission, I can't afford to decline either way.
+
+"I'd be honored."
+
+He leads me away from the main gathering toward a restricted area marked with
+subtle Cygnus security emblems. His access credentials open doors that mine
+wouldn't, and I file away every detail—lock types, sensor locations, response
+patterns.
+
+"This is our neural mapping laboratory," he says, gesturing to a space filled
+with sophisticated equipment I can't immediately identify. "The real heart of
+the NeuroSync project."
+
+The room is impressive, but what catches my attention is the security setup.
+Biometric scanners, quantum encryption locks, and monitoring systems that would
+make military installations jealous. Tomorrow night's infiltration is going to
+be significantly more complicated than the briefing materials suggested.
+
+"Impressive," I murmur, genuinely awed by the technical sophistication. "The
+security measures alone must have cost..."
+
+"More than most countries' annual budgets," he confirms, watching my reaction
+carefully. "But when you're dealing with technology that could redefine human
+consciousness, no precaution is excessive."
+
+He's testing me, I realize. Seeing how I react to the displays of security,
+whether I ask the right questions or the wrong ones. A corporate journalist
+would be impressed but respectful. A potential threat would be looking for
+weaknesses.
+
+"The ethical review process must be extensive," I say, turning away from the
+equipment to face him directly. "Technology this powerful... there must be
+oversight, regulations, safeguards against misuse."
+
+Relief flickers across his expression. Right answer, apparently.
 
-The data transfer proceeds more slowly than I'd like—the isolated system's
-architecture is more complex than the briefing indicated. I watch the progress
-indicator with growing tension, aware that each passing second increases the
-risk of discovery.
-
-Footsteps in the corridor outside. I freeze, listening intently. The steps pause
-at the door, followed by the soft beep of the security panel being activated.
-
-No time to disconnect the spike or find concealment. I adopt the posture and
-expression of someone performing authorized work, positioning my body to
-partially conceal the data connection.
+"Extensive doesn't begin to cover it," he says, moving closer to point out
+specific pieces of equipment. "Every protocol has been reviewed by ethics
+boards, legal departments, and government liaisons. We're not just building
+revolutionary technology—we're establishing the framework for how it can be used
+responsibly."
 
-The door slides open to reveal Haruki Tanaka, his expression shifting from
-purpose to surprise upon seeing me.
-
-"This is a restricted area," he says, his voice controlled but sharp with
-suspicion.
-
-I straighten, offering an apologetic smile. "I'm so sorry. Mira Chen, Pacific
-Rim Business Journal." I gesture to my credentials. "I was told this was the
-press resource room for accessing technical specifications after the
-presentation."
-
-His eyes narrow slightly, assessing me with the practiced evaluation of a
-security professional. "The press room is in the southwest quadrant. This area
-is clearly marked as restricted."
-
-"The directions I received must have been incorrect." I retrieve the data spike
-with a subtle movement, the transfer only partially complete. "I'll find my way
-to the correct location. My apologies for the intrusion."
-
-I move toward the door, maintaining the embarrassed but professional demeanor of
-a journalist who has made an honest mistake. Tanaka doesn't step aside.
-
-"Security protocols require verification of all unauthorized access to
-restricted areas," he says, his voice softening slightly despite the words.
-"I'll need to escort you to security for confirmation of your credentials."
-
-A direct security check would immediately expose my false identity. I need an
-alternative approach, quickly.
-
-I allow my posture to shift subtly, my expression changing from professional
-detachment to more personal engagement. "Of course, I understand completely." I
-meet his eyes directly, noting his involuntary reaction to the increased
-attention. "Security is your responsibility, after all. I wouldn't want to
-compromise that."
-
-The slight dilation of his pupils and fractional change in his breathing confirm
-what the briefing materials suggested—Haruki Tanaka responds to attractive
-women, despite his professional discipline. It's a vulnerability I can use,
-though I dislike the necessity.
-
-"Perhaps you could escort me personally?" I suggest, my tone conveying both
-respect for his position and subtle interest. "I'd appreciate the opportunity to
-learn more about Cygnus's approach to integrated security systems for an
-upcoming article."
-
-His expression changes almost imperceptibly—professional suspicion tempered by
-personal interest. "That would be irregular."
-
-"As irregular as finding me here, I suppose," I acknowledge with a
-self-deprecating smile. "But potentially more productive for both of us."
-
-A moment of decision passes across his face before he nods once. "I'll accompany
-you to the press area. We can discuss your... article... there."
-
-"Thank you, Mr. Tanaka." I step past him, careful to maintain appropriate
-professional distance while still conveying subtle signals of mutual interest.
-
-He escorts me through the corridors, our conversation shifting between security
-protocols and more personal topics as I carefully balance professional
-journalist persona with hints of genuine connection. By the time we reach the
-actual press room, Tanaka's suspicion has been replaced by interest—not enough
-to completely lower his guard, but sufficient to override his initial security
-concerns.
-
-"Perhaps we could continue this discussion after the event," he suggests as we
-reach the press area. "There are aspects of integrated security that aren't
-covered in the public materials."
-
-"I'd like that," I reply, maintaining the delicate balance between professional
-interest and personal connection.
-
-He produces a small card embossed with the Cygnus logo and his contact
-information. "My direct line. For your article."
-
-I accept it with precisely calibrated gratitude. "Thank you for your assistance,
-Mr. Tanaka. And for not having me detained for my navigational error."
-
-A small smile touches his lips. "Everyone makes mistakes, Ms. Chen. The
-important thing is how we recover from them."
-
-As he departs, I subvocalize to Marcus, "Partial data acquired. Security
-complication resolved, but extraction window is closing."
-
-"Understood," he replies. "Complete extraction not possible without additional
-risk. Proceed to extraction point with current data."
-
-I spend twenty minutes in the press room, maintaining my cover identity while
-preparing for departure. Diana Weiss never enters the area, a small mercy in an
-increasingly complicated operation. When sufficient time has passed to make my
-exit natural, I gather my things and move toward the main atrium with the other
-departing guests.
-
-The extraction proceeds smoothly—no additional security checks, no unexpected
-encounters. The same corporate car collects me from the designated pickup area,
-and I'm safely away from Cygnus Tower within minutes.
-
-"Package secured," I report once we're clear of the corporate district.
-"Approximately 60% of target data based on transfer metrics."
-
-"Well done," Marcus responds, satisfaction evident in his voice. "Return to the
-safe house for debrief and data transfer."
-
-As the car navigates through N'Kyoto's evening traffic, I find myself thinking
-about Haruki Tanaka. There was something unexpected in our interaction—a genuine
-quality to his interest that transcended the typical security officer/potential
-threat dynamic. In another context, under different circumstances, I might have
-been genuinely interested in continuing our conversation.
-
-An uncomfortable realization, considering I was actively stealing from his
-company while laying the groundwork for potential future exploitation of his
-interest.
-
-This job is already blurring lines I've kept firmly drawn since leaving HX. The
-corporate world, with its complex social dynamics and multi-layered deceptions,
-was something I'd deliberately left behind. Now I'm not only re-entering that
-world but doing so with greater awareness of its mechanisms and vulnerabilities.
-
-The question remains whether I'm controlling those mechanisms or being
-controlled by them.
-
-Either way, there's no going back now. I've taken the step up that Marcus Wen
-offered. Where it leads remains to be seen.
+The passion in his voice is genuine, and I find myself unexpectedly drawn to it.
+Most corporate executives are motivated by profit or power. Tanaka seems driven
+by something more idealistic—a belief that what they're doing here will actually
+benefit humanity.
+
+It's an attractive quality in a man I'm planning to rob.
+
+"You speak like someone who's seen the alternatives," I observe.
+
+His expression darkens slightly. "I've worked in corporate security for fifteen
+years, Ms. Chen. I've seen what happens when powerful technology falls into the
+wrong hands. The safeguards we're implementing here aren't just corporate
+policy—they're moral imperatives."
+
+There's real conviction in his words, and suddenly I understand why Marcus
+wanted me to meet Tanaka before tomorrow night's operation. This isn't just
+about reconnaissance or establishing cover. It's about understanding that the
+person standing between me and my objective isn't a generic corporate
+obstacle—he's someone with principles, someone who believes in what he's
+protecting.
+
+Someone who's going to make this job significantly more complicated.
+
+"Your passion for the work is evident," I say, meaning it more than I intended.
+"It's refreshing to meet someone in your position who still believes in making
+the world better."
+
+"Even corporate security chiefs can have ideals," he replies with a slight
+smile. "Though I'll admit they sometimes conflict with practical necessities."
+
+The comment hangs in the air between us, loaded with implications I'm not sure
+either of us intended. We're standing closer now, the sophisticated laboratory
+equipment creating an intimate space around us. His cologne is subtle but
+expensive, and when he looks at me, there's an intensity that has nothing to do
+with NeuroSync technology.
+
+"Ms. Chen," he says quietly, "would you be interested in continuing this
+conversation over dinner? There are aspects of our security philosophy that
+might interest your readers, but they're not suitable for public discussion."
+
+The invitation is professional on the surface, but the way he's looking at me
+makes it clear there's more to it than that. I should decline—getting personally
+involved with the target of tomorrow's infiltration is a complication I don't
+need.
+
+Instead, I hear myself saying, "I'd like that very much."
+
+"Excellent." He produces a card embossed with the Cygnus logo and his personal
+contact information. "Tomorrow evening? I know a place in the Preservation
+Quarter that serves the best traditional kaiseki in the city."
+
+"Tomorrow evening," I confirm, accepting the card with fingers that are steadier
+than they should be.
+
+We return to the main reception, but something fundamental has shifted. When
+Tanaka introduces me to other Cygnus executives, there's a subtle possessiveness
+in how he presents me. When I laugh at something another guest says, I catch him
+watching with interest that's definitely not professional.
+
+By the time I leave the tower an hour later, I've gathered enough intelligence
+to significantly revise tomorrow's infiltration plan. I've also committed to
+having dinner with the man whose security systems I'm planning to defeat.
+
+As the elevator descends toward street level, I catch my reflection in its
+polished walls. The woman looking back appears perfectly composed—sophisticated,
+professional, in complete control of the situation.
+
+She's also lying to herself.
+
+I'm attracted to Haruki Tanaka. Not just as a useful mark or a convenient
+distraction, but genuinely drawn to his intelligence, his principles, and the
+way he looked at me like I was someone worth knowing rather than just another
+corporate player.
+
+Tomorrow night, I'm going to betray that interest for money and professional
+advancement.
+
+The elevator reaches the ground floor, and I step out into N'Kyoto's neon-soaked
+streets. The corporate towers rise around me like glass and steel monuments to
+human ambition, their lights reflecting off wet pavement in patterns that would
+be beautiful if you could forget what they represent.
+
+I have eighteen hours to prepare for the most complex infiltration of my career.
+Eighteen hours to review building schematics, test equipment, and finalize
+contingency plans for every possible complication.
+
+Eighteen hours to decide whether I can go through with seducing and betraying a
+man who might be the first genuinely decent person I've met in the corporate
+world.
+
+My comm unit chimes with a message from Marcus: "Preliminary reports excellent.
+Proceed with primary operation as planned."
+
+I pocket the device and disappear into the crowd, just another well-dressed
+woman navigating the corporate district after dark. But underneath the
+professional exterior, I'm already calculating angles, assessing
+vulnerabilities, and preparing to prove that I'm exactly as ruthless as this
+city demands.
+
+Even if it means destroying something that could have been good before it has a
+chance to begin.
