@@ -548,10 +548,18 @@ corporate district. About thirty guests mill about with drinks, their
 conversations creating the kind of sophisticated hum that suggests serious money
 and serious power.
 
-I accept a glass of champagne from a passing server and begin my reconnaissance
-circuit, noting security positions and potential escape routes while maintaining
-the observant demeanor of a technology journalist gathering material for her
-story.
+The familiar knot of anxiety tightens in my stomach as I step into the room. I
+know I look the part—Lin's dress fits perfectly, my hair is professionally
+styled, my makeup is flawless—but being here feels like wearing a costume that
+doesn't quite fit. The conversations around me flow in the particular rhythm of
+corporate networking, full of subtle references and inside jokes that mark me as
+an outsider despite my credentials.
+
+I accept a glass of champagne from a passing server, grateful for something to
+do with my hands, and begin my reconnaissance circuit. The physical aspects come
+naturally—noting security positions, cataloging escape routes, observing
+behavioral patterns. But the social navigation feels rusty, like trying to
+remember a language I once spoke fluently but haven't used in years.
 
 "Ms. Chen?" A voice interrupts my observations, cultured and confident. "Mira
 Chen from Pacific Rim Business Journal?"
@@ -562,8 +570,9 @@ executives. His dark eyes hold mine with interest that seems both professional
 and personal, and when he smiles, it transforms his entire face from
 intimidating to genuinely warm.
 
-"Yes," I reply, letting genuine pleasure color my voice. "Though I'm afraid you
-have me at a disadvantage."
+"Yes," I reply, letting genuine pleasure color my voice while trying to ignore
+the flutter of nerves in my chest. "Though I'm afraid you have me at a
+disadvantage."
 
 "Haruki Tanaka," he says, extending his hand. "Head of Security for Cygnus
 Solutions. I wanted to personally welcome you to our preview event."
@@ -571,7 +580,11 @@ Solutions. I wanted to personally welcome you to our preview event."
 The introduction sends a small shock through my system—this is the man
 responsible for the security systems I'll be penetrating tomorrow night. But
 more than that, there's something in his manner that suggests genuine interest
-rather than routine corporate hospitality.
+rather than routine corporate hospitality. My pulse quickens, but not entirely
+from professional concern. There's something about his direct attention that
+makes me acutely aware of how long it's been since I've had to navigate this
+kind of social interaction without the safety net of a clearly defined
+professional role.
 
 "Mr. Tanaka," I reply, accepting his handshake and noting the strength of his
 grip. "I'm honored to meet you. Your reputation precedes you."
@@ -587,6 +600,13 @@ identity, but his genuine engagement with the subject matter creates an
 unexpected connection. We begin to talk about the implications of consciousness
 transfer technology, and I find myself drawn into a conversation that's both
 intellectually stimulating and subtly charged with personal interest.
+
+Part of me relaxes as we talk—this is familiar territory, technical discussions
+where I can rely on knowledge rather than social grace. But another part remains
+hyperaware of every gesture, every inflection, wondering if I'm saying the right
+things, if my responses sound natural or rehearsed. The woman he's talking to
+looks confident and professional, but underneath I'm calculating every word,
+every smile, every subtle shift in body language.
 
 "Would you like to see something not included in tonight's demonstration?" he
 asks after we've been talking for nearly an hour. "There are aspects of our work
@@ -661,7 +681,15 @@ for public discussion."
 
 The invitation is professionally phrased, but the way he's looking at me makes
 it clear there's more to it than journalistic interest. I should decline—getting
-personally involved with tomorrow's target is a complication I don't need.
+personally involved with tomorrow's target is a complication I don't need. But
+there's something about his genuine interest, the way he listens when I speak,
+that makes me want to say yes despite every professional instinct screaming
+warnings.
+
+The pause stretches a moment too long as I wrestle with competing impulses. He's
+waiting for my answer, and I realize that beneath my physical confidence, I'm
+terrified of navigating a real dinner conversation, of maintaining this persona
+for an entire evening when I'm already feeling the strain of a few hours.
 
 "I'd like that very much," I hear myself saying.
 
@@ -674,8 +702,17 @@ than they should be.
 
 We return to the main reception, but something fundamental has shifted. When
 Tanaka introduces me to other Cygnus executives, there's a subtle proprietorship
-in how he presents me. When I laugh at something another guest says, I catch him
-watching with interest that's definitely not professional.
+in how he presents me, and I find myself grateful for his presence as a social
+anchor. The other conversations flow more easily with him beside me, his
+confidence somehow making me feel more legitimate in this space.
+
+But when he's pulled away by other obligations, the old anxiety creeps back. I
+smile and nod at appropriate moments, make the right noises about the technology
+demonstration, but part of me is constantly calculating whether I'm fitting in
+or standing out for the wrong reasons. When I laugh at something another guest
+says, I catch Tanaka watching from across the room with interest that's
+definitely not professional, and the attention makes me simultaneously warm with
+pleasure and nervous about what it means.
 
 The preview demonstration itself is impressive—a carefully controlled display of
 NeuroSync technology that allows two volunteers to share sensory experiences in

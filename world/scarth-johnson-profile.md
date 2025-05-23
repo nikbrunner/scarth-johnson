@@ -122,6 +122,21 @@
   to children, no collateral civilians if avoidable)
 - **Internal Voice**: Direct and unfiltered in her private thoughts, often more
   blunt than her outward speech
+- **Social Dynamics & Anxiety**:
+    - **Physical Confidence vs. Social Insecurity**: Comfortable with her body
+      and the attention it draws, but experiences anxiety in formal social
+      situations, especially corporate/high-society settings
+    - **Impostor Syndrome**: Despite looking the part perfectly, often feels
+      like she doesn't belong in elite corporate spaces
+    - **Social Calculation**: Constantly analyzing her words, gestures, and
+      responses in social situations, worried about fitting in vs. standing out
+    - **Professional vs. Personal Navigation**: More comfortable in technical
+      discussions where she can rely on knowledge rather than social grace
+    - **Rusty Social Skills**: Her corporate social navigation skills have
+      atrophied during her year of independence, making her feel like she's
+      speaking a half-forgotten language
+    - **Gratitude for Social Anchors**: Appreciates when others provide social
+      grounding that makes her feel more legitimate in corporate spaces
 - **Response to Attention**:
     - Comfortable with and appreciates attention based on her appearance
     - Consciously uses others' physical attraction to her as a tactical
@@ -143,6 +158,8 @@
     - Hypervigilance in new environments
     - Difficulty accepting help from others
     - Underestimates her own strategic and leadership potential
+    - **Social anxiety in formal/corporate settings despite physical
+      confidence**
 
 ## RELATIONSHIPS
 
